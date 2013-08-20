@@ -1,0 +1,50 @@
+﻿Title: Magasin de jardinage
+
+----
+
+English: Gardening Store
+
+----
+
+Proprio: <a href="/personnages-speciaux/racine">Racine</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 9h
+
+----
+
+Timeend: 20h
+
+----
+
+Issell: oui
+
+----
+
+Sell: Dans la rue commerçante : 2x Sac de graines de fleurs / 1x Pousse d'arbrisseau ou cèdre / 1x Arrosoir ou Hache
+<br />
+<br />Dans le magasin "Brico Mélimélo" : 2x Sac de graines de fleurs / 2x Pousses de buissons / 1x Pousse d'arbrisseau ou cèdre / 1x Arrosoir ou Hache / 1x Plante d'intérieur
+<br />
+<br />Dans le magasin "Galeries Mélimélo" : 2x Sac de graines de fleurs / 2x Pousses de buissons / 1x Pousse d'arbrisseau ou cèdre / 1x Engrais / 1x Pousse de bambou ou Kaki / 1x Arrosoir / 1x Hache / 1x Plante d'intérieur
+
+----
+
+Text: Pour débloquer le magasin de jardinage c'est très simple, il faut seulement :
+
+SOIT
+- Arracher 30 mauvaises herbes.
+
+SOIT
+- Arroser 30 fleurs.
+
+SOIT
+- Planter 30 arbres et/ou fleurs.
+
+Il y a possibilité de récupérer un arrosoir auprès de Marie, la secrétaire, qui le donnera en cadeau si le joueur effectue les tâches qu'elle demande le premier jour où le maire créera la ville.
+
+Si des mauvaises herbes poussent dans votre ville, il faut demander à Racine de les arracher, il le fera avec plaisir.

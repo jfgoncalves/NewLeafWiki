@@ -1,0 +1,44 @@
+﻿Title: Araignée
+
+----
+
+English: Spider
+
+----
+
+Location: Dans les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mars à Octobre
+
+----
+
+Retail: 300
+
+----
+
+Museum: L'araignée produit de la soie grâce à ses glandes filières et l'utilise pour tisser une toile.
+Celle-ci constitue un piège pour les insectes avec ses fils horizontaux très collants.
+Les fils verticaux, en revanche, sont dénués de substances gluantes.
+Cela permet à l'araignée de se déplacer sans être prise au piège de sa propre toile.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Pourvu qu'on ne la retrouve pas à ton plafond !
+
+----
+
+Text: 

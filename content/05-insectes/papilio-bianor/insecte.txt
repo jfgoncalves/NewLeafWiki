@@ -1,0 +1,43 @@
+﻿Title: Papilio bianor
+
+----
+
+English: Peacock Butterfly
+
+----
+
+Location: Près des fleurs violettes, noires et bleues
+
+----
+
+Time: 4h à 19h
+
+----
+
+Month: Mars à Septembre
+
+----
+
+Retail: 220
+
+----
+
+Museum: Le dessous des ailes du papilio bianor est noir, tandis que le dessus est soit bleu, soit vert.
+Les mâles sont faciles à distinguer avec les poils noirs sur leurs ailes qui ressemblent à du velours.
+On voit parfois des groupes de mâles s'abreuvant ensemble à un point d'eau.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Avec un nom pareil, va savoir d'où il sort...
+
+----
+
+Text: L'apparition de cet insecte dépend du nombre de fleurs violettes, noires et bleues présentes dans le village.

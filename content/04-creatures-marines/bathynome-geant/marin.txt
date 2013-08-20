@@ -1,0 +1,45 @@
+﻿Title: Bathynome géant
+
+----
+
+English: Giant isopod
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 9000
+
+----
+
+Museum: Le bathynome géant est apparenté au cloporte et peut mesurer jusqu'à 50 cm de long. D'aspect trapu, il peut pourtant nager relativement vite. On le surnomme << nettoyeur des mers >> à cause de son gros appétit et de ses mœurs de charognard.
+
+----
+
+Shadow: Grosse
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

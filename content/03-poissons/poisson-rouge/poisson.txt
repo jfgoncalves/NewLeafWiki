@@ -1,0 +1,45 @@
+﻿Title: Poisson rouge
+
+----
+
+English: Goldfish
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 1300
+
+----
+
+Museum: Ce poisson d'aquarium est issu de l'élevage sélectif du carassin. Il a fallu des centaines d'années pour obtenir une longue nageoire caudale et cette superbe couleur. Même le plus coloré des poissons rouges est noir pendant sa jeunesse, ce qui trahit son origine.
+
+----
+
+Shadow: Minuscule
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ses camarades vont lui manquer !
+
+----
+
+Text: 

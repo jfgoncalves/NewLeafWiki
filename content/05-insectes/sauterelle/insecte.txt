@@ -1,0 +1,41 @@
+﻿Title: Sauterelle
+
+----
+
+English: Grasshopper
+
+----
+
+Location: Sur l'herbe
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 160
+
+----
+
+Museum: La sauterelle est connue pour son chant particulier, appelé stridulation. La femelle est également capable de produire ce chant. C'est un insecte omnivore qui se nourrit aussi bien de végétaux que d'insectes ou de vertébrés.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle est imbattable à la marelle !
+
+----
+
+Text: 

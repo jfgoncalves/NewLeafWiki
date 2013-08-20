@@ -1,0 +1,41 @@
+﻿Title: Mante religieuse
+
+----
+
+English: Mantis
+
+----
+
+Location: Sur les fleurs
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Avril à Novembre
+
+----
+
+Retail: 430
+
+----
+
+Museum: La mante religieuse doit son nom à l'attitude de prière qu'elle adopte en attendant sa proie. Elle se saisit de tout ce qui passe à proximité et n'hésite pas à capturer des proies plus larges qu'elle. Quand elle se sent menacée, elle déploie ses ailes vertes pour avoir l'air plus imposante.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: La messe est dite !
+
+----
+
+Text: 

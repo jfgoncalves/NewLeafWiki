@@ -1,0 +1,49 @@
+﻿Title: Stefaon
+
+----
+
+English: Beau
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Paresseux
+
+----
+
+Species: Cerf
+
+----
+
+Birthday: 05.04
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: T-Shirt Cerf
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: Plein
+
+----
+
+Sugar: Trois
+
+----
+
+Text: 

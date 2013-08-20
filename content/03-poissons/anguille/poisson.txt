@@ -1,0 +1,47 @@
+﻿Title: Anguille
+
+----
+
+English: Eel
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 2000
+
+----
+
+Museum: L'anguille naît dans l'océan avant de remonter les rivières une fois adulte. Mais ce n'est que temporaire, puisqu'elle finit par retourner dans l'océan pour y pondre ses œufs.
+Leur sang peut être toxique, ce qui explique qu'on ne trouve pas de sashimis d'anguille. Une fois cuit, en revanche, ce poisson devient parfaitement comestible.
+Le lieu de ponte et les habitudes des anguilles ont longtemps constitué une énigme. Mais la recherche permet de lever peu à peu le voile de ce fascinant mystère.
+
+----
+
+Shadow: Grande et fine
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 2x1
+
+----
+
+Catchphrase: Elle n'était pas dans une botte de foin !
+
+----
+
+Text: 

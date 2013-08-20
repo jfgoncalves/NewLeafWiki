@@ -1,0 +1,12 @@
+﻿Title: Poissons
+
+----
+
+Text: <p style="text-align: center;">
+<img src="http://newleaf.fr/content/03-poissons/header.png" />
+</p>
+
+Les poissons font parti des espèces d'animaux pouvant être attrapés dans Animal Crossing New Leaf. On peut les attraper avec une [canne à pêche](outils/canne-a-peche), pour ensuite les exposer au [musée](musee), les vendre à [Reventes & Retouches](batiments/revente-retouches) ou à [Méli & Mélo](personnages-speciaux/Meli-Melo), ou même les poser chez soi.
+Beaucoup de poissons vont apparaître dans la ville durant l'[été](meteo/saisons#ete), quelques espèces uniques pendant l'[automne](meteo/saisons#automne) et le [printemps](meteo/saisons#printemps), et peu d'espèces durant l'[hiver](meteo/saisons#hiver). Certains [villageois](villageois) peuvent vous demander d'attraper une certaine espèce de poisson pour eux et vous offriront une récompense si vous réussissez.
+
+Il y a en tout 72 espèces de poissons, dont 41 venant de la rivière, des étangs et des lacs et des cascades, et 31 venant de la mer. En voici la liste :

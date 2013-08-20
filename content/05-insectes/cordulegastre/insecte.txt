@@ -1,0 +1,45 @@
+﻿Title: Cordulégastre
+
+----
+
+English: Banded Dragonfly
+
+----
+
+Location: Dans l'air
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 4500
+
+----
+
+Museum: Le cordulégastre possède un corps strié de bandes noires et jaunes et des yeux d'un vert brillant.
+Il est grand et peut voler assez rapidement.
+Ses mâchoires étant puissantes, une morsure peut s'avérer douloureuse.
+Son stade larvaire dure de deux à quatre ans.
+Il vit alors près de l'eau, se nourrissant de têtards et de petits poissons.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: As-tu trouvé l'arme du crime ?
+
+----
+
+Text: 

@@ -1,0 +1,41 @@
+﻿Title: Scarabée Hercule
+
+----
+
+English: Hercules Beetle
+
+----
+
+Location: Sur les palmiers
+
+----
+
+Time: 17h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 12000
+
+----
+
+Museum: Le scarabée Hercule est le plus grand représentant de son espèce. Il peut mesurer jusqu'à 17 cm pour les cas les plus exceptionnels. Ses deux longues cornes sont puissantes et peuvent pincer avec vigueur. La corne la plus longue est recouverte d'un duvet jaune qui lui permet de sentir les vibrations. Son corps jaune devient noir s'il est mouillé, il est donc dur à distinguer le soir par temps humide.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Heureusement qu'il n'est pas rancunier !
+
+----
+
+Text: 

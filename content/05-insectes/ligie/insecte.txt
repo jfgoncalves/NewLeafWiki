@@ -1,0 +1,44 @@
+﻿Title: Ligie
+
+----
+
+English: Wharf Roach
+
+----
+
+Location: Sur la plage
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 200
+
+----
+
+Museum: La ligie se trouve en bord de mer, généralement juste au-dessus du niveau de l'eau, sur les rochers.
+Elle se nourrit principalement de microalgues et de détritus qui s'échouent sur la côte.
+De fait, elle contribue un peu à « nettoyer » l'environnement.
+Elle se déplace souvent en groupe et détale au moindre bruit suspect.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1X1
+
+----
+
+Catchphrase: C'est le cafard des plages !
+
+----
+
+Text: 

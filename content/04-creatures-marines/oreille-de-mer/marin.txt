@@ -1,0 +1,45 @@
+﻿Title: Oreille de mer
+
+----
+
+English: Abalone
+
+----
+
+Location: Océan
+
+----
+
+Time: 21h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 300
+
+----
+
+Museum: Les oreilles de mer ressemblent à des jeunes ormeaux, auxquels elles sont apparentées. Toutefois, leur comportement évoque davantage celui des escargots. D'ailleurs, comme ces derniers, elles possèdent des cornes.
+
+----
+
+Shadow: Très petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle doit être un peu bouchée !
+
+----
+
+Text: 

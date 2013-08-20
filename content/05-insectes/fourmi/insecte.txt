@@ -1,0 +1,41 @@
+﻿Title: Fourmi
+
+----
+
+English: Ant
+
+----
+
+Location: Sur les navets pourris au sol
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 80
+
+----
+
+Museum: Les fourmis sont petites mais très fortes puisqu'elles peuvent porter bien plus que leur propre poids. Leur organisation ressemble à celle des abeilles, avec une reine et des ouvrières. De fait, elles font partie du même ordre que les abeilles : celui des hyménoptères.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

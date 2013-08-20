@@ -1,0 +1,43 @@
+﻿Title: Criquet
+
+----
+
+English: Long Locust
+
+----
+
+Location: Sur l'herbe, sur les souches
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Août à Novembre
+
+----
+
+Retail: 400
+
+----
+
+Museum: Le criquet est souvent considéré comme un nuisible parce qu'il cause de gros dégâts aux récoltes.
+Mais il est également comestible et dans certaines régions, il est bouilli dans de la sauce soja.
+Généralement vert, le criquet peut prendre une teinte plus sombre si de nombreux congénères l'entourent.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

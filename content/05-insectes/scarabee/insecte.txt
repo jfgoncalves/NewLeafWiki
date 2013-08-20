@@ -1,0 +1,41 @@
+﻿Title: Scarabée
+
+----
+
+English: Scarab Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 23h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 6000
+
+----
+
+Museum: Le corps de scarabée, d'aspect métallique, est plus brillant encore que celui de la nitidule. On compare souvent son brillant à celui de l'or. Tout comme ce métal, d'ailleurs, cet insecte est rare et se vend à bon prix. Sa carapace lui procure une protection efficace contre les prédateurs. Mais avec de si beaux atours, les prédateurs les plus à craindre sont sans doute les collectionneurs.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il en reste bouche bée !
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Crabe araignée géant
+
+----
+
+English: Spider crab
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mars à Avril
+
+----
+
+Retail: 10000
+
+----
+
+Museum: 
+
+----
+
+Shadow: Très grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

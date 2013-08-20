@@ -1,0 +1,49 @@
+﻿Title: Naomie
+
+----
+
+English: Daisy
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Normale
+
+----
+
+Species: Chien
+
+----
+
+Birthday: 16.11
+
+----
+
+Initphrase: cahuète
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: Plein
+
+----
+
+Sugar: Trois
+
+----
+
+Text: 

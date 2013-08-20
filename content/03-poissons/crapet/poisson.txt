@@ -1,0 +1,45 @@
+﻿Title: Crapet
+
+----
+
+English: Bluegill
+
+----
+
+Location: Rivière
+
+----
+
+Time: 9h à 16h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 120
+
+----
+
+Museum: Le dos du crapet est recouvert de nageoires en pointe qui lui servent à se protéger des agressions. De fait, sa progéniture bénéficie d'un taux relativement élevé de survie comparé aux autres poissons. Le mâle chasse la femelle après la ponte et se consacre à la protection des œufs et des bébés. Malgré une taille très inférieure, le crapet est apparenté au bar.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: De quoi rabattre le crapet de ceux qui doutent de toi !
+
+----
+
+Text: 

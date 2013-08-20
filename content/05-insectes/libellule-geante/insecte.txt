@@ -1,0 +1,41 @@
+﻿Title: Libellule géante
+
+----
+
+English: Giant Petaltail
+
+----
+
+Location: Dans l'air
+
+----
+
+Time: 16h à 19h
+
+----
+
+Month: Août à Septembre
+
+----
+
+Retail: 8000
+
+----
+
+Museum: On a retrouvé des fossiles de libellules datant du Jurassique qui ressemblent à la libellule géante. On considère dès lors celle-ci comme un fossile vivant, sa forme ayant peu évolué depuis. Avec une envergure de plus de 16 cm, il s'agit de la plus grande libellule au monde.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

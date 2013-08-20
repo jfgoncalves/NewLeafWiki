@@ -1,0 +1,45 @@
+﻿Title: Perche jaune
+
+----
+
+English: Yellow perch
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Octobre à Mars
+
+----
+
+Retail: 240
+
+----
+
+Museum: 
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

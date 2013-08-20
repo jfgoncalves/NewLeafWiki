@@ -1,0 +1,43 @@
+﻿Title: Brookiana
+
+----
+
+English: Raja Brooke
+
+----
+
+Location: Dans l'air (près des fleurs, près de l'eau douce)
+
+----
+
+Time: 8h à 19h
+
+----
+
+Month: Mai à Septembre
+
+----
+
+Retail: 2500
+
+----
+
+Museum: Le brookiana a une tête rouge et une bande rouge autour du cou qui ressemble à un collier.
+Il est connu pour s'abreuver aux sources d'eau chaude.
+Le mâle est d'un vert vif, alors que les ailes de la femelle sont plus généralement brunes.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il a la tête toute rouge, il fait son timide !
+
+----
+
+Text: 

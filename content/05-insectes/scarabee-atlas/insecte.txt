@@ -1,0 +1,41 @@
+﻿Title: Scarabée Atlas
+
+----
+
+English: Atlas Beetle
+
+----
+
+Location: Sur les palmiers
+
+----
+
+Time: 17h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 8000
+
+----
+
+Museum: Le scarabée Atlas n'est peut-être pas le plus gros scarabée, mais il est considéré comme le plus fort. Avec ses trois cornes, il ressemble à un mélange de lucane et de scarabée kabuto. Ces attributs sont déjà présents au stade larvaire, de même que sa force légendaire.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il porte toute la misère du monde !
+
+----
+
+Text: 

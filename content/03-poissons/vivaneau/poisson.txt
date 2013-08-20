@@ -1,0 +1,45 @@
+﻿Title: Vivaneau
+
+----
+
+English: Red snapper
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 3000
+
+----
+
+Museum: Le vivaneau est un poisson grégaire qui se déplace souvent en bancs près des récifs et des épaves. Ce poisson est très consommé et du fait de la demande, on sert souvent d'autres espèces sous son nom. Il peut vivre jusqu'à 50 ans. Le record serait même de 57 ans.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il a un cousin aérien : le vivanair !
+
+----
+
+Text: 

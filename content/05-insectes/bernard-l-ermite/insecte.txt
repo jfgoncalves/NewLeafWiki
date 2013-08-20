@@ -1,0 +1,44 @@
+﻿Title: Bernard-l'ermite
+
+----
+
+English: Hermit Crab
+
+----
+
+Location: Sur la plage
+
+----
+
+Time: 19h à 8h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 1000
+
+----
+
+Museum: Le bernard-l'ermite élit domicile dans les coquilles vides assez grandes pour l'accueillir.
+Dès que son habitat devient trop étroit, il en cherche un autre.
+Avant de s'installer, il prend soin de mesurer la taille de l'ouverture avec ses pinces.
+Il est parfois obligé de se battre avec un congénère pour obtenir la coquille de ses rêves.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il aurait mieux fait de rester dans sa grotte !
+
+----
+
+Text: 

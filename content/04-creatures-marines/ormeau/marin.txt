@@ -1,0 +1,45 @@
+﻿Title: Ormeau
+
+----
+
+English: Abalone
+
+----
+
+Location: Océan
+
+----
+
+Time: 21h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 400
+
+----
+
+Museum: Les ormeaux poussent de 2 cm par an, ils mettent donc plusieurs années à atteindre leur taille adulte. Apparentés aux oreilles de mer, on les utilise depuis longtemps en guise d'offrandes ou de décorations. Ils sont également très appréciés en cuisine.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Rien de plus normal.
+
+----
+
+Text: 

@@ -1,0 +1,50 @@
+﻿Title: Revente & Retouches
+
+----
+
+English: Re-Tail
+
+----
+
+Proprio: <a href="/personnages-speciaux/risette">Risette</a> et <a href="/personnages-speciaux/serge">Serge</a>
+
+----
+
+Location: Dans le village
+
+----
+
+Timestart: 9h
+
+----
+
+Timeend: 23h
+
+----
+
+Issell: oui
+
+----
+
+Sell: Meubles aux rabais d'autres habitants du village
+
+----
+
+Text: C'est avec Risette qu'il est désormais possible de :
+
+* Vendre et recycler tous ses objets.
+* Mettre en vente ses objets.
+* Vérifier le cours du navet, il change 2 fois par jour : 9h-12h ET 12h-23h (excepté le dimanche)
+
+Quand à Serge il faudra déjà le réveiller, pour se faire il faut :
+
+* Avoir vendu pour 100 000 clochettes d'objets (meubles, vêtements ect.) chez Revente & Retouches. 
+* Il faut également avoir au moins 50 meubles et 25 vêtements dans son catalogue.
+
+Après cela il sera entièrement disponible pour modifier les meubles qu'on lui apporte.
+En cassant des pierres dehors il est possible de trouver ces pierres précieuses :
+- Émeraude, saphir, rubis et améthyste : 2.000 clochettes
+- Pépite d'argent : 3.000 clochettes
+- Pépite d'or : 4.000 clochettes
+Elles donneront un effet étincelant aux meubles, MAIS seulement pour certains meubles !
+Une modification d'objet durera 30 minutes. Et coûtera toujours 10 fois moins que le prix de vente normal, par exemple : une chaise royale à 2.100 clochettes coûtera 210 clochettes de modification.

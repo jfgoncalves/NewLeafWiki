@@ -1,0 +1,45 @@
+﻿Title: Piranha
+
+----
+
+English: Piranha
+
+----
+
+Location: Rivière
+
+----
+
+Time: 9h à 16h / 21h à 4h
+
+----
+
+Month: Juin à Septembre (première moitié)
+
+----
+
+Retail: 2500
+
+----
+
+Museum: Le piranha doit sa réputation à ses dents acérées qui lui donnent cet air féroce. Pourtant, il est d'une nature plutôt timide, malgré sa dangerosité bien réelle. À défaut d'une autre proie, il peut avoir recours au cannibalisme. Il convient de le manipuler avec précaution quand on en attrape un car il n'hésite pas à mordre !
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Gaffe à ce qu'il ne t'attrape pas à son tour !
+
+----
+
+Text: 

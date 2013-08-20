@@ -1,0 +1,45 @@
+﻿Title: Limande
+
+----
+
+English: Dab
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Octobre à Avril
+
+----
+
+Retail: 300
+
+----
+
+Museum: 
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

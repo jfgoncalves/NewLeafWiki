@@ -1,0 +1,43 @@
+﻿Title: Anax napolitain
+
+----
+
+English: Darner Dragonfly
+
+----
+
+Location: Dans l'air (près de l'eau douce)
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juin à Août
+
+----
+
+Retail: 200
+
+----
+
+Museum: L'anax napolitain possède une tête et un thorax de couleur verte.
+Le mâle a également une tâche bleutée sur le ventre.
+On le voit le plus souvent voleter au-dessus de points d'eau comme des lacs ou des étangs.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il a l'air idiot. Serait-ce un âne-anax ?
+
+----
+
+Text: 

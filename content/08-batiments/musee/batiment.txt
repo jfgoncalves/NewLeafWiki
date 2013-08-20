@@ -1,0 +1,33 @@
+﻿Title: Musée
+
+----
+
+English: Museum
+
+----
+
+Proprio: <a href="/personnages-speciaux/thibou">Thibou</a> et <a href="/personnages-speciaux/celeste">Céleste</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: oui
+
+----
+
+Sell: 
+
+----
+
+Text: 

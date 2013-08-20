@@ -1,0 +1,45 @@
+﻿Title: Saumon
+
+----
+
+English: Salmon
+
+----
+
+Location: Embouchure (entre rivière et océan) / Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Septembre
+
+----
+
+Retail: 700
+
+----
+
+Museum: 
+
+----
+
+Shadow: Grande
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

@@ -1,0 +1,49 @@
+﻿Title: Octave
+
+----
+
+English: Octavian
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Grincheux
+
+----
+
+Species: Pieuvre
+
+----
+
+Birthday: 20.09
+
+----
+
+Initphrase: chenapan
+
+----
+
+Initclothes: T-Shirt Étoile
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Mélange
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

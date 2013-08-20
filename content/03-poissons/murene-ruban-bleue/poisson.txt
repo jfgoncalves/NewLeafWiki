@@ -1,0 +1,45 @@
+﻿Title: Murène ruban bleue
+
+----
+
+English: Ribbon eel
+
+----
+
+Location: Île (uniquement)
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 600
+
+----
+
+Museum: En observant la murène ruban bleue, on a l'impression qu'une fleur lui pousse sur le museau. Elle doit son nom à sa couleur bleu vif ainsi qu'à l'aspect effilé de son corps. Elle naît asexuée et devient mâle puis femelle au cours de sa croissance. Elle sort souvent la tête de son trou dans le sable en ouvrant la bouche. Ce n'est pas pour effrayer un éventuel prédateur, mais simplement pour respirer. Malgré son apparence un peu effrayante, la murène ruban bleue est un poisson très paisible.
+
+----
+
+Shadow: Longue et fine
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Emballé, c'est pesé !
+
+----
+
+Text: 

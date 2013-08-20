@@ -1,0 +1,56 @@
+﻿Title: Nook Immobilier
+
+----
+
+English: Nook's Homes
+
+----
+
+Proprio: <a href="/personnages-speciaux/tom-nook">Tom Nook</a> et <a href="/personnages-speciaux/lionel">Lionel</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 10h
+
+----
+
+Timeend: 20h
+
+----
+
+Issell: oui
+
+----
+
+Sell: 1x Terrasse / 1x Toit / 1x Clôture / 1x Façade
+<br />2x Portes / 1x Boîte aux lettres
+<br />1x Rénovation d'extérieur
+
+----
+
+Text: C'est chez "Nook Immobilier" qu'il est désormais possible de changer sa maison, mais de l'extérieur !
+Tous les changements mineurs (portes, clôture...) sont à un budget abordable, mais le changement majeur est la rénovation d'extérieur, cela coûtera toujours plus de 100.000 clochettes.
+
+Et enfin il y Lionel. Une fois l'acompte de 10.000 clochettes remboursé à Tom Nook, celui-ci mentionnera "Association des joyeux décorateurs" et Lionel sera alors de retour !
+Il évaluera l'intérieur de la maison de chaque joueur sur des critères bien précis tel que la rareté de certains objets, les séries de meubles, les sets de meubles, le feng shui... Et voici la liste des cadeaux offert après chaque stat de points atteint :
+
+* 10.000 points : T-shirt de l'AJD
+* 20.000 points : Drapeau de l'AJD
+* 30.000 points : Gilet de l'AJD
+* 50.000 points : Plaque en argent
+* 70.000 points : Plaque en or
+* 90.000 points : Trophée en argent
+* 100.000 points : Trophée en or
+* 150.000 points : Maquette de maison en or
+
+Puis il y aura la série or !!
+
+* 300.000 points : Toit en or
+* 500.000 points : Mur en or
+* 700.000 points : Porte en or
+* 900.000 points : Clôture en or
+* 1.100.000 points : Boîte aux lettres en or

@@ -1,0 +1,45 @@
+﻿Title: Poisson papillon
+
+----
+
+English: Butterfly Fish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Septembre
+
+----
+
+Retail: 1000
+
+----
+
+Museum: Le poisson-papillon est très apprécié des aquariophiles pour sa beauté. Il se meut avec grâce dans les eaux chaudes en agitant ses nageoires à la manière d'un papillon. Son régime est très spartiate puisqu'il se nourrit de corail et d'anémones toxiques. On a pu voir des poissons-papillons vivant en couple depuis 10 ans et plus. Ils se déplacent souvent deux par deux, ce qui leur confère une image très romantique.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Tu crois qu'il nage aussi le crawl ?
+
+----
+
+Text: 

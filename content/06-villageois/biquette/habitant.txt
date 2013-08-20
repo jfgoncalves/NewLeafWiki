@@ -1,0 +1,49 @@
+﻿Title: Biquette
+
+----
+
+English: Chevre
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Normale
+
+----
+
+Species: Chèvre
+
+----
+
+Birthday: 06.03
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

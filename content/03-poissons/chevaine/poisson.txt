@@ -1,0 +1,45 @@
+﻿Title: Chevaine
+
+----
+
+English: Pale Chub
+
+----
+
+Location: Rivière
+
+----
+
+Time: 9h à 16h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 200
+
+----
+
+Museum: Ce poisson, apparenté à la carpe, se distingue par ses longues nageoires ventrales et sa bouche saillante. Son habileté lui permet de sauter pour attraper les insectes qui passent au-dessus de l'eau. Pour attirer les femelles lors de la saison des amours, le ventre du mâle devient rose et son dos, bleu.
+
+----
+
+Shadow: Minuscule
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Che vais noter ça quelque part !
+
+----
+
+Text: 

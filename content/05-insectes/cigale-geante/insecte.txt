@@ -1,0 +1,43 @@
+﻿Title: Cigale géante
+
+----
+
+English: Giant cicada
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 500
+
+----
+
+Museum: La cigale géante, comme son nom l'indique, est l'une des plus grandes espèces de cigale.
+Elle a vécu longtemps dans les régions chaudes du Japon occidental.
+Mais elle tend désormais à migrer vers les régions de l'est.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: La fourmi l'aurait sans doute nourrie, celle-là !
+
+----
+
+Text: 

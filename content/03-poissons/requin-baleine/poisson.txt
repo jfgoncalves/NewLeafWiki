@@ -1,0 +1,45 @@
+﻿Title: Requin baleine
+
+----
+
+English: Whale shark
+
+----
+
+Location: Île (uniquement)
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 13000
+
+----
+
+Museum: Le requin-baleine est le plus grand poisson du monde et peut-être aussi l'un des plus pacifiques. Il ne nage qu'à 5 km/h, ce qui le rend plutôt inoffensif en dépit de sa taille. Il se déplace la bouche ouverte pour avaler des grandes quantités d'eau contenant de petits animaux. L'eau est ensuite filtrée par ses ouïes et la nourriture restante est avalée. Il possède 10 000 petites dents disposées sur plusieurs rangées, mais il ne s'en sert pas.
+
+----
+
+Shadow: Énorme avec aileron qui sort de l'eau
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: Il devait avoir froid aux pattes !
+
+----
+
+Text: 

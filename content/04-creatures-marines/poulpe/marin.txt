@@ -1,0 +1,45 @@
+﻿Title: Poulpe
+
+----
+
+English: Octopus
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Octobre à Juin
+
+----
+
+Retail: 1200
+
+----
+
+Museum: L'anatomie du poulpe est assez particulière, avec sa tête placée entre son corps et ses bras. Ceux-ci, très flexibles, sont idéaux pour attraper les animaux qui se dissimulent entre les rochers. Quand un prédateur l'attaque, le poulpe projette une encre noire pour l'aveugler et couvrir sa fuite.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il n'avait qu'à jeter l'encre !
+
+----
+
+Text: Il est facile à repérer dans l'eau car ses mouvement sont saccadés.

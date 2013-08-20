@@ -1,0 +1,37 @@
+﻿Title: Tente d'Astrid
+
+----
+
+English: Katrina's Tent
+
+----
+
+Proprio: <a href="/personnages-speciaux/astrid">Astrid</a>
+
+----
+
+Location: Place du village
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: oui
+
+----
+
+Sell: - Voyance pour 500 clochettes
+
+----
+
+Text: Astrid viendra dans le village, et en tant que marchand itinérant, il est impossible de prévoir sa venue.
+
+Lorsque le joueur voudras une prédiction celle-ci fera payer 500 clochettes. Puis, à la fin elle mentionnera un vêtement qui portera chance et bonheur au client.
+
+Et c'est au bout de 20 consultations qu'Astrid ouvrira son commerce dans la rue commerçante.

@@ -1,0 +1,51 @@
+﻿Title: Salon de détente
+
+----
+
+English: Dream Suite
+
+----
+
+Proprio: <a href="/personnages-speciaux/serena">Serena</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: Le salon de détente sera disponible qu'une fois après avoir était maire depuis 7 jours. Ensuite, en allant à la mairie, Marie sera en train de somnoler. En parlant avec elle, elle proposera de faire construire le salon pour 234.000 clochettes.
+
+Il sera possible de faire beaucoup de choses.
+En parlant à Serena on peut :
+
+* "Le rêve de ma ville" : Savoir si les gens ont aimé ou non son rêve onirique.
+* "Mon code onirique" : Obtenir un code onirique, et le laisser ou pas sur la CR.
+* "Effacer un rêve" : Effacer son rêve pour avoir un nouveau code onirique.
+
+En s'allongeant sur le canapé, le joueur peut mettre à jour son rêve onirique et gagner 5.000 clochettes (une fois par jour) et Serena demandera au joueur s'il veut ou non partager ses motifs personnalisés.
+
+En se couchant sur le lit :
+
+* "Je m'en remet à toi !" : Serena cherchera un rêve toute seule.
+* "J'ai un code onirique" : Si le joueur à un code onirique, il ira directement dans ce rêve.
+* "Cherchons-en un" : Il est possible de chercher un rêve par nom, ville et pays.
+
+En allant dans un rêve, tous vos gestes n'ont aucune importance, il ne se passera rien dans la "vraie" ville du joueur. 
+Et si Morsicus est dans les parages, c'est lui qui aura les motifs personnalisés partagés du joueur.

@@ -1,0 +1,45 @@
+﻿Title: Balane
+
+----
+
+English: Balanomorpha
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 200
+
+----
+
+Museum: Les balanes vivent fermement accrochées aux rochers. Malgré leur aspect de coquillages, elles sont apparentées aux crabes et aux crevettes. Certaines espèces sont comestibles, et leur goût de crabe en fait un mets apprécié par les gourmets. Les balanes naissent dans des œufs, sans coquilles, et dérivent au gré des courants comme des crevettes. Elles acquièrent leur coquille en grandissant.
+
+----
+
+Shadow: Très petite
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Y'en a tout un régiment, là-dessous !
+
+----
+
+Text: Il se trouve toujours près de la plage.

@@ -1,0 +1,45 @@
+﻿Title: Écrevisse
+
+----
+
+English: Crawfish
+
+----
+
+Location: Étang
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Septembre (première moitié)
+
+----
+
+Retail: 200
+
+----
+
+Museum: Cette cousine des homards vit dans les étangs et les rivières, ce qui la rend facile à attraper. Son corps devient rouge si elle se nourrit de végétaux, et bleu si elle se nourrit de poissons. Une couleur rouge indique un régime plus équilibré et est donc préférée chez cette espèce.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Serre-lui la pince !
+
+----
+
+Text: 

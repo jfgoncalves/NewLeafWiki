@@ -1,0 +1,45 @@
+﻿Title: Marlin bleu
+
+----
+
+English: Blue marlin
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 10000
+
+----
+
+Museum: Le marlin bleu est connu pour son long museau en forme d'épée. Celui-ci ne lui sert pas à embrocher sa proie comme on pourrait le penser, mais à l'assommer. Sa vitesse (plus de 100km/h) et sa force font de ce poisson une prise très appréciée des pêcheurs.
+
+----
+
+Shadow: Très grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Le nom du tarin bleu lui irait mieux !
+
+----
+
+Text: 

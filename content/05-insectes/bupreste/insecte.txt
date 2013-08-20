@@ -1,0 +1,41 @@
+﻿Title: Bupreste
+
+----
+
+English: Jewel Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 2400
+
+----
+
+Museum: Le corps vert du bupreste est parcouru d'une ligne rouge. Cet insecte est si beau qu'on pense qu'il a été utilisé dans l'artisanat à une certaine époque. Sa carapace rutilante est très voyante, pourtant les oiseaux ont du mal à le repérer. En effet, ils ne sont pas très forts lorsqu'il s'agit de détecter une proie aux reflets changeants.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Tu crois qu'il en reste ?
+
+----
+
+Text: 

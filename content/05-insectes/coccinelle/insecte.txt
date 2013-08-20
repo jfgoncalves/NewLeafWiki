@@ -1,0 +1,44 @@
+﻿Title: Coccinelle
+
+----
+
+English: Spotted Ladybug
+
+----
+
+Location: Sur les fleurs
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Mars à Juin, Octobre
+
+----
+
+Retail: 200
+
+----
+
+Museum: Il existe de nombreuses espèces de coccinelles avec un nombre de taches variables.
+Cependant ce nombre reste fixe chez un individu quel que soit son âge.
+La plupart des coccinelles se nourrissent d'insectes nuisibles aux plantations.
+En hiver, elles restent blotties en groupes sous les feuilles sèches pour mieux résister au froid.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Dépose-la dans ton jardin !
+
+----
+
+Text: 

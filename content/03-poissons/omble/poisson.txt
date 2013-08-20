@@ -1,0 +1,45 @@
+﻿Title: Omble
+
+----
+
+English: Char
+
+----
+
+Location: Cascade
+
+----
+
+Time: 4h à 9h, 16h à 21h (Mars-Juin) / 4h à 21h (Septembre-Novembre)
+
+----
+
+Month: Mars à Juin / Septembre à Novembre
+
+----
+
+Retail: 3800
+
+----
+
+Museum: L'omble est apparenté au saumon. Il vit dans les rivières et ne migre que rarement vers l'océan. Préférant les eaux froides, il habite dans les deaux claires, au fond de rivières isolées dans les montagnes. Sa tendance à se dissimuler entre les rochers le rend d'autant plus difficile à observer.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est de la bomble !
+
+----
+
+Text: 

@@ -1,0 +1,41 @@
+﻿Title: Mille-pattes
+
+----
+
+English: Centipede
+
+----
+
+Location: Sous les rochers
+
+----
+
+Time: 16h à 23h
+
+----
+
+Month: Juin à Février
+
+----
+
+Retail: 300
+
+----
+
+Museum: Le mille-pattes, contrairement à ce que son nom laisse penser, est loin de posséder autant de membres. Leur nombre varie en fait généralement de 30 à 46 pour la plupart des espèces. Il possède également des forcipules, qui sont une évolution de la première paire de pattes. Ces crochets servent à injecter du venin. On utilise parfois cet insecte dans les préparations médicinales.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Avec autant de pattes, il aurait pu courir plus vite !
+
+----
+
+Text: 

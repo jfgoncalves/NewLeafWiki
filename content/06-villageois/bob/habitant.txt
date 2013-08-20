@@ -1,0 +1,49 @@
+﻿Title: Bob
+
+----
+
+English: Harry
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Grincheux
+
+----
+
+Species: Hippopotame
+
+----
+
+Birthday: 07.01
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

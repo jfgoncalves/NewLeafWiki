@@ -1,0 +1,44 @@
+﻿Title: Piéride de la rave
+
+----
+
+English: Common Butterfly
+
+----
+
+Location: Près des fleurs
+
+----
+
+Time: 4h à 19h
+
+----
+
+Month: Mars à Juin, Septembre
+
+----
+
+Retail: 90
+
+----
+
+Museum: La pléride de la rave est reconnaissable aux taches noires qui ornent ses ailes blanches.
+Le mâle et la femelle paraissent tous les deux blancs, mais il y a une subtile différence de couleur.
+En y regardant de plus près, les ailes du mâle ont l'air noires et celle de la femelle, blanches.
+La chenille est connue pour les ravages qu'elle cause sur les récoltes.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ça vaut pas une pierrade sur la rive...
+
+----
+
+Text: 

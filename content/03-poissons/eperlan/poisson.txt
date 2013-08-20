@@ -1,0 +1,45 @@
+﻿Title: Éperlan
+
+----
+
+English: Pond smelt
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Décembre à Février
+
+----
+
+Retail: 300
+
+----
+
+Museum: 
+
+----
+
+Shadow: 
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

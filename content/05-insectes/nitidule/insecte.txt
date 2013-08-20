@@ -1,0 +1,41 @@
+﻿Title: Nitidule
+
+----
+
+English: Fruit Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 100
+
+----
+
+Museum: La nitidule possède un corps vert brillant. On la trouve principalement aux alentours des arbres fruitiers. Ses petites ailes sont protégées par une carapace très rigide qu'elle soit soulever pour s'envoler. Sa larve se nourrit de végétaux en décomposition et de racines.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ça n'a rien de ridicule !
+
+----
+
+Text: 

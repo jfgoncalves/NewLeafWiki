@@ -1,0 +1,45 @@
+﻿Title: Cardeau
+
+----
+
+English: Olive flet
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 800
+
+----
+
+Museum: Les deux yeux du cardeau se trouvent sur son côté gauche. Il peut atteindre un mètre de long et on le confond souvent avec la limande, une proche parente. Les individus jeunes ont un œil de chaque côté du corps. Lors de la croissance, l'œil droit migre vers le côté gauche. Ce poisson carnivore change de couleur pour se confondre avec le fond marin en attendant ses proies.
+
+----
+
+Shadow: Moyenne-Grande
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Tu as pris une limande... Minute ! Il semblerait qu'il s'agisse plutôt d'un cardeau !
+
+----
+
+Text: 

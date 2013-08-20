@@ -1,0 +1,45 @@
+﻿Title: Pétoncle
+
+----
+
+English: Scallop
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 1000
+
+----
+
+Museum: Le pétoncle vit dans les eaux froides. Pour se propulser, il ferme brusquement ses valves. Les points noirs situés sur le bord de sa coquille correspondent en fait à ses yeux. Il peut en posséder plus de 80, mais ils ne sont sensibles qu'à la lumière. Grillés et accompagnés de beurre, les pétoncles sont un mets de choix.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est pas un mollusque à la noix !
+
+----
+
+Text: 

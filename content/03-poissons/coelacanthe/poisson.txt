@@ -1,0 +1,45 @@
+﻿Title: Coelacanthe
+
+----
+
+English: Coelacanth
+
+----
+
+Location: Océan (lorsqu'il pleut/neige)
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 15000
+
+----
+
+Museum: On pensait le cœlacanthe éteint avant qu'on en trouve un spécimen vivant au large de l'Afrique. Surnommé « fossile vivant », il ne semble pas avoir évolué beaucoup en 400 millions d'années. Il peut vivre plus de 60 ans et atteindre une taille de 2 mètres. Cependant, même pour un poisson, son cerveau n'est pas très volumineux. Il a plus d'arrêtes et des écailles plus épaisses que la plupart des poissons, et son goût est différent. En revanche, sa graisse n'est pas comestible pour l'Homme et il n'est donc pas conseillé de le consommer.
+
+----
+
+Shadow: Très grande
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Dis-le à voix haute, pour voir !
+
+----
+
+Text: 

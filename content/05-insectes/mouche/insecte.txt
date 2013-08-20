@@ -1,0 +1,41 @@
+﻿Title: Mouche
+
+----
+
+English: Fly
+
+----
+
+Location: Sur les navets pourris au sol, les rafflesias et les déchets
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 60
+
+----
+
+Museum: La mouche se nettoie régulièrement les pattes avant, ce qui contraste un peu avec sa réputation. Mais ses pattes doivent rester propres pour lui permettre de toucher et de goûter. Elles contiennent également un liquide collant qui rend la mouche très à l'aise sur les surfaces lisses.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

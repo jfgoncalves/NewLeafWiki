@@ -1,0 +1,45 @@
+﻿Title: Bar commun
+
+----
+
+English: Sea Bass
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 160
+
+----
+
+Museum: Le bar commun est connu pour sa chair délicieuse ainsi que pour sa taille. S'il avale quelque chose qui n'est pas comestible, il ouvre la bouche et ses ouïes puis secoue la tête. Ce mouvement, aussi étrange qu'il puisse paraître, suffit généralement à expulser le corps étranger. Comme son cousin le bar, il possède une force qui constitue un vrai défi pour les pêcheurs.
+
+----
+
+Shadow: Grande
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Eh oui, encore un...
+
+----
+
+Text: 

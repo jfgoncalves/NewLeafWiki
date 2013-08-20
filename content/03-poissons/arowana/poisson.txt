@@ -1,0 +1,45 @@
+﻿Title: Arowana
+
+----
+
+English: Arowana
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 10000
+
+----
+
+Museum: L'arowana est un poisson très ancien, dont la forme n'a que peu évolué en 100 millions d'années. Il est connu pour ses larges écailles ainsi que pour les poils qui sortent de sa mâchoires inférieure. Il est très agile et peut sauter à plus d'un mètre au-dessus de la surface de l'eau. Le mâle garde sa progéniture dans sa bouche pour la protéger. Puis, une fois qu'elle a atteint une certaine taille, il la relâche.
+
+----
+
+Shadow: Grande
+
+----
+
+Rarity: 
+
+----
+
+House: 2x1
+
+----
+
+Catchphrase: Tant mieux pour toi !
+
+----
+
+Text: 

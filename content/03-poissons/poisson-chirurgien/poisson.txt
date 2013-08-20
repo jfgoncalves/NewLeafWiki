@@ -1,0 +1,45 @@
+﻿Title: Poisson chirurgien
+
+----
+
+English: Surgeonfish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Septembre
+
+----
+
+Retail: 1000
+
+----
+
+Museum: Le poisson chirurgien se distingue par sa nageoire caudale jaune et son corps d'un bleu éclatant. Il est d'une nature plutôt timide et tranquille. Pour dormir, il cherche une cachette parmi les rochers et les coraux. En cas de danger, il a tendance à faire le mort en se couchant sur le côté.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Qui va s'occuper de ses patients ?
+
+----
+
+Text: 

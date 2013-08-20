@@ -1,0 +1,41 @@
+﻿Title: Scarabée éléphant
+
+----
+
+English: Elephant Beetle
+
+----
+
+Location: Sur les palmiers
+
+----
+
+Time: 17h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 8000
+
+----
+
+Museum: Le scarabée éléphant est l'un des plus lourds de son espèce. Le duvet jaune qui recouvre son corps le rend assez populaire auprès des collectionneurs. Sa corne ressemble à la trompe dressée d'un éléphant, ce qui lui a valu son nom. Sa larve est déjà impressionnante, mais sa chrysalide fait la taille d'une main.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il est du genre à tromper son monde  !
+
+----
+
+Text: 

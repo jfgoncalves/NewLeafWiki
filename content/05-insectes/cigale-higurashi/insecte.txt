@@ -1,0 +1,43 @@
+﻿Title: Cigale higurashi
+
+----
+
+English: Evening Cicada
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 4h à 8h, 16h à 19h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 550
+
+----
+
+Museum: La cigale higurashi chante quelle que soit l'heure dès qu'il fait nuit.
+On pense à tort que ce chant indique la fin de l'été.
+En fait elle chante à la fin de la saison des pluies, c'est-à-dire vers le mois de juillet.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: La relâcher serait un vrai gâchis !
+
+----
+
+Text: 

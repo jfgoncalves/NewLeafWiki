@@ -1,0 +1,44 @@
+﻿Title: Criquet pèlerin
+
+----
+
+English: Migratory Locust
+
+----
+
+Location: Sur l'herbe
+
+----
+
+Time: 8h à 19h
+
+----
+
+Month: Août à Novembre
+
+----
+
+Retail: 600
+
+----
+
+Museum: Le criquet pèlerin est capable de parcourir une distance de 10 mètres en sautant.
+Pour parvenir à cet exploit, il ouvre ses ailes, ce qui lui permet de voler pendant un instant.
+Ce criquet est doté d'un grand appétit et peur dévorer chaque jour l'équivalent de son propre poids.
+Un groupe d'un million d'individus peut ainsi consommer une tonne de nourriture par jour.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est ici que son voyage prend fin !
+
+----
+
+Text: 

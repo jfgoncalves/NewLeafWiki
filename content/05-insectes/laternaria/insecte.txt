@@ -1,0 +1,41 @@
+﻿Title: Laternaria
+
+----
+
+English: Lantern Fly
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 16h à 8h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 1800
+
+----
+
+Museum: La laternaria vit sur les arbres dont elle boit la sève. Sa tête ressemble étrangement à celle de l'alligator, mais ce n'est bien sûr qu'une coïncidence. Les motifs sur ses ailes évoquent des yeux et servent à effrayer les prédateurs. Elle ne chante pas beaucoup mais reste apparentée aux cigales sous certains aspects.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle ne vivra plus en paria !
+
+----
+
+Text: 

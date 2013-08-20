@@ -1,0 +1,45 @@
+﻿Title: Carpe
+
+----
+
+English: Carp
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 300
+
+----
+
+Museum: Ce poisson robuste peut vivre plus de 100 ans. Ses moustaches caractéristiques le rendent facile à identifier. Omnivore, il se nourrit d'algues et d'insectes en les aspirant. Il possède également des dents au fond du gosier qui lui permettent de broyer les coquillages.
+
+----
+
+Shadow: Moyenne-Grande
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il te faut une erpée, maintenant !
+
+----
+
+Text: 

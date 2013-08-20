@@ -1,0 +1,41 @@
+﻿Title: Papillon de nuit
+
+----
+
+English: Moth
+
+----
+
+Location: Près des lumières des lampadaires et des bâtiments.
+
+----
+
+Time: 19h à 4h
+
+----
+
+Month: Mai à Septembre
+
+----
+
+Retail: 60
+
+----
+
+Museum: Le papillon de nuit utilise ses antennes pour se diriger dans l'obscurité. Son nom est assez vague car on distingue en fait 160 000 espèces de papillons de nuit différentes.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ce n'était pas son jour !
+
+----
+
+Text: 

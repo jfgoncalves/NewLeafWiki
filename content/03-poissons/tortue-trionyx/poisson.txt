@@ -1,0 +1,45 @@
+﻿Title: Tortue Trionyx
+
+----
+
+English: Soft shelled turtle
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Août à Septembre
+
+----
+
+Retail: 3750
+
+----
+
+Museum: Cette cousine de la tortue commune ne lâche jamais sa prise quand elle a décidé de mordre quelque chose. Elle est plutôt craintive, ce qui explique son caractère assez agressif au moindre danger. Quand on se fait mordre, il suffit en général de la remettre dans l'eau pour lui faire lâcher son étreinte. Elle aime beaucoup nager, sa carapace plate lui permettant d'évoluer avec aisance. Toutefois, elle est incapable de respirer sous l'eau et garde toujours ses narines à la surface.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: On dirait un caillou sur pattes !
+
+----
+
+Text: 

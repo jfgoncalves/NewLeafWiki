@@ -1,0 +1,41 @@
+﻿Title: Phasme
+
+----
+
+English: Walkingstick
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 4h à 19h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 600
+
+----
+
+Museum: Le phasme est un maître du camouflage, comme la phyllie qui appartient à la même famille. Il possède un corps cylindrique qui ressemble à une brindille. Certains peuvent même changer de couleur. La femelle n'a généralement pas besoin du mâle pour concevoir ses œufs. Il se pourrait même que chez certaines espèces le mâle ne soit pas du tout représenté.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Coucou, vieille branche !
+
+----
+
+Text: 

@@ -1,0 +1,44 @@
+﻿Title: Patineur
+
+----
+
+English: Pondskater
+
+----
+
+Location: Sur l'eau
+
+----
+
+Time: 8h à 19h
+
+----
+
+Month: Mai à Juillet
+
+----
+
+Retail: 130
+
+----
+
+Museum: Le patineur se distingue par sa capacité à courir sur l'eau.
+Il aspire les insectes qui tombent à la surface de l'eau à l'aide d'une trompe.
+Ses ailes lui permettent de rejoindre rapidement un autre endroit en cas de besoin.
+Certains prétendent qu'il ont un parfum de bonbon, ce qui semble être une association originale.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est allé comme sur des roulettes !
+
+----
+
+Text: 

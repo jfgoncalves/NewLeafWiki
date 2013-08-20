@@ -1,0 +1,43 @@
+﻿Title: Acrida cinerea
+
+----
+
+English: Long Locust
+
+----
+
+Location: Sur l'herbe
+
+----
+
+Time: 8h à 19h
+
+----
+
+Month: Mai à Juin, Août à Novembre
+
+----
+
+Retail: 200
+
+----
+
+Museum: L'acrida cinerea, qui émet une stridulation caractéristique quand elle saute, peut être verte ou brune.
+Les espèces brunes se cachent dans les endroits de la même couleur, près de l'herbe séchée par exemple.
+Les mâles sont moins grands que les femelles, ce qui permet de les distinguer facilement.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Rassure-toi, ça n'a rien d'une maladie !
+
+----
+
+Text: 

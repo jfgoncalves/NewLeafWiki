@@ -1,0 +1,43 @@
+﻿Title: Citrin
+
+----
+
+English: Yellow Butterfly
+
+----
+
+Location: Près des fleurs
+
+----
+
+Time: 4h à 19h
+
+----
+
+Month: Mars à Juin, Septembre
+
+----
+
+Retail: 90
+
+----
+
+Museum: Le citrin ressemble à la piéride de la rave, et on confond souvent les deux.
+Les mâles sont tous de couleur jaune et les femelles plutôt blanches.
+La chenille se nourrir de plantes de la famille des Fabaceae comme l'astragale ou le trèfle blanc.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Pas de quoi choper le melin !
+
+----
+
+Text: 

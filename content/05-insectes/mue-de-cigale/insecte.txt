@@ -1,0 +1,41 @@
+﻿Title: Mue de cigale
+
+----
+
+English: Cicada Shell
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 100
+
+----
+
+Museum: La larve de la cigale émerge du sol dans la soirée et se métamorphose, laissant derrière elle une mue. Il est possible de déterminer l'espèce rien qu'en observant cette mue. C'est aussi en les dénombrant qu'on peut savoir combien de cigales de telle espèce habitent à tel endroit.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Voilà comment régler ses problèmes de peau !
+
+----
+
+Text: 

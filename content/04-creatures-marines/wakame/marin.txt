@@ -1,0 +1,45 @@
+﻿Title: Wakame
+
+----
+
+English: Wakame
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Décembre à Septembre
+
+----
+
+Retail: 200
+
+----
+
+Museum: La wakame est une algue pouvant mesurer plus d'un mètre de long. Ses spores prennent racine sur les rochers. De couleur brune en milieu naturel, il prend sa teinte verte une fois cuit. Il a tendance à se gâter rapidement dès qu'on le récolte. Ainsi, il a fallu mettre au point diverses méthodes de préservation pour pallier ce problème. On peut par exemple le saupoudrer de cendres pour l'assécher, ou le faire bouillir, puis le saler.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Y'a qu'à demander !
+
+----
+
+Text: 

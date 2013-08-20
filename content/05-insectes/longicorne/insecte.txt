@@ -1,0 +1,41 @@
+﻿Title: Longicorne
+
+----
+
+English: Longhorn Beetle
+
+----
+
+Location: Sur les palmiers
+
+----
+
+Time: 23h à 19h
+
+----
+
+Month: Juin à Août
+
+----
+
+Retail: 260
+
+----
+
+Museum: Le longicorne se nourrit, comme sa larve, de l'écorce des arbres. La taille de ses antennes peut parfois dépasser celle de son corps. Ses mandibules sont assez puissantes pour couper des cheveux. Sachant cela, mieux vaut se méfier de sa morsure quand on le manipule !
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Vu ses antennes, il doit capter la radio !
+
+----
+
+Text: 

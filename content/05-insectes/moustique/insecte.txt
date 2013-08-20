@@ -1,0 +1,41 @@
+﻿Title: Moustique
+
+----
+
+English: Mosquito
+
+----
+
+Location: Dans l'air
+
+----
+
+Time: 16h à 4h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 130
+
+----
+
+Museum: Le moustique se rencontre fréquemment en été, lorsque la nuit tombe. Seule la femelle suce le sang. En faisant cela, elle injecte aussi de la salive. C'est cette dernière qui provoque les démangeaisons. Le moustique détecte la chaleur émise par le corps, la sueur et le dioxyde de carbone. Les personnes qui font du sport par une nuit d'été sont donc des proies toutes désignées.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ça lui apprendra à fourrer son nez n'importe où !
+
+----
+
+Text: 

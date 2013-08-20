@@ -1,0 +1,45 @@
+﻿Title: Loche d'étang
+
+----
+
+English: Loach
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mars à Mai
+
+----
+
+Retail: 300
+
+----
+
+Museum: 
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

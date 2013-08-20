@@ -1,0 +1,45 @@
+﻿Title: Requin
+
+----
+
+English: Shark
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 15000
+
+----
+
+Museum: Il semblerait que les dents triangulaires du requin aient été des écailles à l'origine. Lorsque l'une de ces dents se casse, elle tombe rapidement et est remplacée par une nouvelle. C'est un prédateur redoutable, capable de flairer l'odeur du sang à plusieurs kilomètres à la ronde. Il peut même sauter hors de l'eau pour attraper une proie. Les os du requin sont faits de cartilage et on les utilise à tort comme remède.
+
+----
+
+Shadow: Énorme avec aileron qui sort de l'eau
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: Il a les dents longues...
+
+----
+
+Text: 

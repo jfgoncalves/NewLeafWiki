@@ -1,0 +1,41 @@
+﻿Title: Punaise
+
+----
+
+English: Stinkbug
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Octobre
+
+----
+
+Retail: 120
+
+----
+
+Museum: La punaise sécrète une odeur repoussante, capable de faire fuir la plupart des prédateurs. L'odeur est si forte que si elle se risque à l'émettre dans un petit espace confiné, elle peut en mourir. Elle aime se regrouper avec ses congénères pour se réchauffer au soleil. De même, elle est facilement attirée par le confort d'une maison chauffée.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Vu l'odeur, pas d'erreur !
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Limace de mer
+
+----
+
+English: Sea slug
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 200
+
+----
+
+Museum: Les limaces de mer n'ont en vérité que peu de rapport avec leurs homonymes terrestres. Les plongeurs apprécient leurs couleurs vives et variées, ainsi que la diversité de leurs formes. Elles sont hermaphrodites, et peuvent donc se reproduire avec tout autre membre de leur espèce.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Pas de quoi fanfaronner, hein !
+
+----
+
+Text: 

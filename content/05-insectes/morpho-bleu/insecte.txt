@@ -1,0 +1,43 @@
+﻿Title: Morpho bleu
+
+----
+
+English: Emperor Butterfly
+
+----
+
+Location: Près des fleurs
+
+----
+
+Time: 8h à 19h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 2500
+
+----
+
+Museum: Le morpho bleu est facile à reconnaître avec ses jolies ailes bleues iridescentes.
+La couleur est plus due aux reflets de leurs écailles qu'à leur pigmentation.
+Le dessous de ses ailes étant plus terne, il est plus difficile à distinguer quand il est immobile.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est facile de s'en prendre aux novices !
+
+----
+
+Text: 

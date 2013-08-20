@@ -1,0 +1,45 @@
+﻿Title: Thon
+
+----
+
+English: Tuna
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Novembre à Mars
+
+----
+
+Retail: 7000
+
+----
+
+Museum: 
+
+----
+
+Shadow: Très grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

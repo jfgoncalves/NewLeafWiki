@@ -1,0 +1,49 @@
+﻿Title: Graham
+
+----
+
+English: Graham
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Agréable
+
+----
+
+Species: Hamster
+
+----
+
+Birthday: 20.06
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Mélange
+
+----
+
+Milk: La_Quantité_Normale
+
+----
+
+Sugar: Deux
+
+----
+
+Text: Personnalité : Suffisant

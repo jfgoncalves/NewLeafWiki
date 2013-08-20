@@ -1,0 +1,45 @@
+﻿Title: Poisson ange
+
+----
+
+English: Angelfish
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Mai à Octobre
+
+----
+
+Retail: 3000
+
+----
+
+Museum: Ce poisson tropical se déplace avec grâce du fait des longues nageoires situées sur son dos et son ventre. Il est très difficile de distinguer le mâle de la femelle. Le poisson-ange pond ses œufs au milieu des algues. Une fois que ceux-ci ont éclos, les petits s'accrochent aux algues sous la surveillance des deux parents. Ils acquièrent leur forme caractéristique quand ils quittent le refuge des algues pour grandir.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Vu sa tête, ce n'est pas un saint !
+
+----
+
+Text: 

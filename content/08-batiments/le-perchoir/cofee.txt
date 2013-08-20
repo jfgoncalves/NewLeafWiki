@@ -1,0 +1,47 @@
+﻿Title: Le Perchoir
+
+----
+
+English: The Roost
+
+----
+
+Proprio: <a href="personnages-speciaux/robusto">Robusto</a>
+
+----
+
+Location: Dans le village
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: oui
+
+----
+
+Sell: - Café sur place : 200 clochettes
+<br />- Café à emporter : 200 clochettes
+
+----
+
+Text: Pour obtenir "Le café de Robusto" il faut déjà avoir construit le second étage du musée, et il faut qu'il se soit écoulé 7 jours. Après, le joueur maire doit aller retourner parler à [Thibou](/personnages-speciaux/thibou), il proposera au joueur de faire travailler un de ses amis, en l’occurrence, Robusto. Et enfin, il faut partir voir Marie pour le faire construire. Il coûtera 298.000 clochettes.
+
+Le prix du café est toujours de 200 clochettes, et au bout de trois jours, après ça il sera possible d'emporter le café !
+Grande nouveauté, le joueur pourra travailler de 11h à 22h, mais pas les jours fériés, et servir des cafés à emporter aux habitants de la ville, aux touristes et aussi aux commerçants.
+Voir la liste ci-dessous pour les préférences de chaque villageois.
+
+Le salaire se fait par grain de café et dépend de la qualité du travail (Si vous avez su servir le bon café au client). Robusto peut donner soit des grains de café standard (500 clochettes), soit des grains de café de qualité (1000 clochettes), soit des grains de café d'excellence (2000 clochettes).
+
+Pour pouvoir commencer à travailler il faut avoir respecté ceci :
+
+* Il faut avoir bu un café chez Robusto huit jours de suite.
+* Il faut lui parler tous les jours, entre cinq et huit jours. 
+
+Ensuite, Robusto proposera au joueur de travailler pour lui. Le travail pourra commencer dès le lendemain !

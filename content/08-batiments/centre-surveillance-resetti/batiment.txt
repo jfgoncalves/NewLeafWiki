@@ -1,0 +1,33 @@
+﻿Title: Centre de Surveillance Resetti
+
+----
+
+English: Resetti Surveillance Center
+
+----
+
+Proprio: Resetti et Don Resetti
+
+----
+
+Location: Dans le village
+
+----
+
+Timestart: 21h
+
+----
+
+Timeend: Minuit
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: Lorsque le joueur oubliera OU fera exprès de ne pas sauvegarder, lors de sa prochaine connexion il se fera engueuler par Resetti et demandera si, par un geste d'EXTRÊME bonté, il sera possible de faire construire son "Centre de Surveillance Resetti" pour la modique somme de 368.000 clochettes.

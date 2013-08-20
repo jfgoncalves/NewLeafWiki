@@ -1,0 +1,41 @@
+﻿Title: Lucane inclinatus
+
+----
+
+English: Saw Stag Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 2000
+
+----
+
+Museum: Le lucane inclinatus est connu pour ses énormes mandibules courbées en dent de scie. À la moindre vibration, cet insecte s'immobilise et fait le mort.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il s'est incliné face à ton habileté !
+
+----
+
+Text: 

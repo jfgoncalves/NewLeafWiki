@@ -1,0 +1,41 @@
+﻿Title: Puce
+
+----
+
+English: Flea
+
+----
+
+Location: Sur les villageois
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mars à Novembre
+
+----
+
+Retail: 70
+
+----
+
+Museum: La puce est un petit insecte qui se nourrit de sang humain et animal. Sa piqûre démange fortement. Elle utilise sa trompe pour aspirer le sang de son hôte tout en lui injectant de la salive. À la différence des moustiques, la puce mâle se nourrit de la même matière que la femelle.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Et si tu la mettais dans ton ordinateur ?
+
+----
+
+Text: 

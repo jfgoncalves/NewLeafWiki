@@ -1,0 +1,45 @@
+﻿Title: Carangue grosse tête
+
+----
+
+English: Giant trevally
+
+----
+
+Location: Île (uniquement)
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 4500
+
+----
+
+Museum: La carangue grosse tête appartient à la famille des maquereaux. Elle se distingue cependant par sa taille et la teinte argentée de son corps. Mais ces dimensions imposantes ne la prémunissent pas du froid, aussi préfère-t-elle les eaux tempérées. Ses mâchoires sont assez puissantes pour arracher un doigt, il convient donc d'être prudent en la pêchant.
+
+----
+
+Shadow: Très grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Ça lui apprendra à frimer !
+
+----
+
+Text: 

@@ -1,0 +1,39 @@
+﻿Title: À l'aise chaussures
+
+----
+
+English: Kicks
+
+----
+
+Proprio: <a href="/personnages-speciaux/Blaise">Blaise</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 10h
+
+----
+
+Timeend: 20h
+
+----
+
+Issell: oui
+
+----
+
+Sell: 4x Paires de Chaussures, Tongs, Bottes ou Ballerines
+<br />2x Paires de Chaussette, Collants ou Leggings
+
+----
+
+Text: L'élaboration du magasin commence après :
+
+* Avoir créé sa ville depuis 10 jours.
+* Dépensé 8.000 clochettes chez les Sœurs Doigts de Fée.
+
+La construction dure 3 jours.

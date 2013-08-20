@@ -1,0 +1,44 @@
+﻿Title: Abeille
+
+----
+
+English: Bee
+
+----
+
+Location: Dans les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 2500
+
+----
+
+Museum: L'abeille n'hésite pas à attaquer quiconque s'approche de sa ruche.
+Ses couleurs noire et jaune signalent sa dangerosité.
+Quand elle pique, l'abeille perd son dard et une partie de son abdomen est également arrachée.
+Cette blessure lui est la plupart du temps fatale.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle risque d'avoir le bourdon...
+
+----
+
+Text: L'abeille ne se trouve qu'en secouant les arbres, et lorsque le portillon de la ville est fermé.

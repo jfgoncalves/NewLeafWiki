@@ -1,0 +1,41 @@
+﻿Title: Scarabée Goliath
+
+----
+
+English: Goliath Beetle
+
+----
+
+Location: Sur les palmiers
+
+----
+
+Time: 19h à 8h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 6000
+
+----
+
+Museum: Le scarabée Goliath, qui doit son nom au célèbre géant, est l'un des plus gros insectes du monde. Sa larve peut peser plus de 100 grammes. Cependant, une fois adulte, il pèse deux fois moins. Il passe son temps à voler d'un arbre à un autre pour se nourrir de sève ou de fruits.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il est tombé sur plus gros que lui !
+
+----
+
+Text: 

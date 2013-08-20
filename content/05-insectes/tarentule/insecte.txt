@@ -1,0 +1,42 @@
+﻿Title: Tarentule
+
+----
+
+English: Tarentula
+
+----
+
+Location: Sur l'herbe
+
+----
+
+Time: 19h à 4h
+
+----
+
+Month: Juin à Août
+
+----
+
+Retail: 8000
+
+----
+
+Museum: La tarentule est une grande araignée qui aime les habitats chauds. Certaines personnes les élèvent comme des animaux domestiques. Elle possède des crochets acérés. Sa morsure est douloureuse pour l'Homme, mais pas mortelle. Elle se protège aussi en projetant les poils urticants qui recouvrent son abdomen. Ces poils provoquent de terribles démangeaisons et sont très difficiles à enlever.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Gare à ses mandibules !
+
+----
+
+Text: * Apparition uniquement lorsque le portillon de la gare est fermé.
+* Elle fonce sur le joueur si ce dernier tient le filet à la main.

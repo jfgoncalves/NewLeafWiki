@@ -1,0 +1,41 @@
+﻿Title: Lucane copris irisé
+
+----
+
+English: Rainbow Stag Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 19h à 8h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 10000
+
+----
+
+Museum: Le corps métallique du lucane copris irisé pourrait lui valoir le titre de plus beau lucane au monde. Ses couleurs chatoyantes couvrent non seulement son dos, mais aussi son ventre. Il est d'une nature assez pacifique, mais n'hésite pas à se battre pour protéger son territoire.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: On le sent irrité...
+
+----
+
+Text: Moins rare les jours pluvieux.

@@ -1,0 +1,45 @@
+﻿Title: Grenouille
+
+----
+
+English: Frog
+
+----
+
+Location: Étang
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mai à Août
+
+----
+
+Retail: 120
+
+----
+
+Museum: Les grenouilles, dont le têtard est la larve, vivent près des étangs et dans des milieux marécageux. Principalement terrestres, elles ne possèdent pas de branchies, mais des poumons et un épiderme. Elles sécrètent un liquide qui leur permet de protéger ce dernier de la déshydratation. En effet, un épiderme trop sec les empêcherait de respirer convenablement par ce biais. Il est conseillé d'éviter de toucher les grenouilles car certaines espèces sont venimeuses.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle a de belles cuisses !
+
+----
+
+Text: On peut la distinguer facilement grâce à son croassement !

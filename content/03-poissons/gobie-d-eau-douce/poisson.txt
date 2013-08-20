@@ -1,0 +1,45 @@
+﻿Title: Gobie d'eau douce
+
+----
+
+English: Freshwater goby
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 300
+
+----
+
+Museum: Ce poisson trapu qui vit dans les rivières a de nombreuses petites dents pour déchiqueter ses proies. La femelle creuse un trou sous un rocher pour y déposer ses œufs que le mâle est chargé de garder. D'autres espèces tirent profit de ce dévouement en pondant leurs œufs au même endroit que cette espèce.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ce coin de rivière n'était pas désert !
+
+----
+
+Text: 

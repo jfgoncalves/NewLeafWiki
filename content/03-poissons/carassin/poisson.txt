@@ -1,0 +1,45 @@
+﻿Title: Carassin
+
+----
+
+English: Crucian carp
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 120
+
+----
+
+Museum: Le carassin est une prise idéale pour les débutants, mais les pêcheurs confirmés l'apprécient également. Apparenté à la carpe koï, il peut vivre jusqu'à 15 ans. Peu de mâles parviennent à voir le jour, d'où une large majorité de femelles dans la population. Heureusement, celles-ci peuvent se reproduire avec d'autres espèces, ce qui permet de compenser.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il a l'air un peu crasseux, le coquin !
+
+----
+
+Text: 

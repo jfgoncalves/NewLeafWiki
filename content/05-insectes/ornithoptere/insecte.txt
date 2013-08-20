@@ -1,0 +1,41 @@
+﻿Title: Ornithoptère
+
+----
+
+English: Birdwing Butterfly
+
+----
+
+Location: Près des fleurs
+
+----
+
+Time: 8h à 16h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 4000
+
+----
+
+Museum: L'ornithoptère est l'un des plus grand papillons du monde, son envergure pouvant atteindre 30 cm. Les ailes de la femelle sont plus larges que celles du mâle dont les ailes sont de couleur bleue. Ce papillon est très recherché par les collectionneurs, mais sa vente est soit limitée, soit interdite.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Le vert lui va si bien !
+
+----
+
+Text: 

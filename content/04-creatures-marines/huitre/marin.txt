@@ -1,0 +1,45 @@
+﻿Title: Huitre
+
+----
+
+English: Oyster
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Septembre à Février
+
+----
+
+Retail: 400
+
+----
+
+Museum: 
+
+----
+
+Shadow: Petite (ne bouge pas)
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

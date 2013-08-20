@@ -1,0 +1,45 @@
+﻿Title: Chinchard
+
+----
+
+English: Horse mackerel
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 150
+
+----
+
+Museum: Le chinchard est un mets apprécié depuis longtemps pour ses qualités gustatives et son prix abordable. Cependant, dans certaines régions, il est considéré comme un plat de gourmet. Ses écailles sont très dures et elles doivent être retirées avant la cuisson. Malgré sa taille, le chinchard est un carnivore vorace. Il est facilement attiré par les appâts et est donc apprécié des pêcheurs.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Un chinchard sachant chasser...
+
+----
+
+Text: 

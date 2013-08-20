@@ -1,0 +1,41 @@
+﻿Title: Monarque
+
+----
+
+English: Monarch Butterfly
+
+----
+
+Location: Dans l'air (près des fleurs)
+
+----
+
+Time: 4h à 17h
+
+----
+
+Month: Septembre à Novembre
+
+----
+
+Retail: 140
+
+----
+
+Museum: Le monarque est connu pour migrer vers le sud quand l'hiver arrive. On peut alors y voir des milliers d'individus recouvrant les arbres. Lorsque le printemps revient, ils regagnent leur lieu de départ jusqu'à l'hiver suivant.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Bien fait ! Vive le peuple !
+
+----
+
+Text: 

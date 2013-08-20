@@ -1,0 +1,45 @@
+﻿Title: Anguille de jardin
+
+----
+
+English: Garden eels
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 600
+
+----
+
+Museum: L'anguille de jardin se niche dans le sable et sort la tête pour se nourrir du plancton qui dérive. Elle est assez craintive, préférant se dissimuler dans son trou au moindre signe de danger.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x1
+
+----
+
+Catchphrase: Elle n'aura pas pu faire son trou !
+
+----
+
+Text: 

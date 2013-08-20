@@ -1,0 +1,45 @@
+﻿Title: Dorade
+
+----
+
+English: Dorado
+
+----
+
+Location: Rivière
+
+----
+
+Time: 4h à 21h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 15000
+
+----
+
+Museum: « Dorade » provient de l'espagnol « dorado » qui signifie « doré ». ce poisson doit son nom à sa couleur dorée, également parsemée de taches noires. Il ressemble au saumon mais est apparenté au piranha, comme ses dents acérées en témoignent. Il est même si féroce que les autres poissons ont tendance à le fuir pour éviter de se faire croquer. Sa nature belliqueuse et sa fougue en font une prise très prestigieuse auprès des pêcheurs.
+
+----
+
+Shadow: Très grande
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Ça vaut mieux qu'un coup de soleil !
+
+----
+
+Text: 

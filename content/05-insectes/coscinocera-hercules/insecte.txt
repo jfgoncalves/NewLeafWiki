@@ -1,0 +1,43 @@
+﻿Title: Coscinocera hercules
+
+----
+
+English: Oak Silk Moth
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 19h à 4h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 1200
+
+----
+
+Museum: Le coscinocera hercules est un des plus grands papillons au monde. On l'observe principalement en été.
+La chenille produit de la soie pour former sa chrysalide.
+Une fois adulte, il ne se nourrit pas et survit grâce aux nutriments accumulés lors du stade larvaire.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Un gros papillon, quoi...
+
+----
+
+Text: 

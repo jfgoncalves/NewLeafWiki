@@ -1,0 +1,45 @@
+﻿Title: Homard
+
+----
+
+English: Lobster
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 2500
+
+----
+
+Museum: Le homard possède de puissantes pinces dont l'une sert à broyer, et l'autre à couper. Il n'hésite pas à les utiliser pour se défendre, ce qui explique qu'on les ligote toujours soigneusement. Cette sorte de grosse écrevisse est capable de vivre plus de cent ans.
+
+----
+
+Shadow: Grosse
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Fais-lui une bisque de ma part !
+
+----
+
+Text: Il va assez vite, faites attention à ne pas le perdre.

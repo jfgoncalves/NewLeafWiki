@@ -1,0 +1,49 @@
+﻿Title: Hector
+
+----
+
+English: Del
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Versatile
+
+----
+
+Species: Alligator
+
+----
+
+Birthday: 27.05
+
+----
+
+Initphrase: Clap
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Mélange
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

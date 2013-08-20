@@ -1,0 +1,43 @@
+﻿Title: Agrias
+
+----
+
+English: Agrias Butterfly
+
+----
+
+Location: Dans l'air (près des fleurs)
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 3000
+
+----
+
+Museum: On prétend que l'agrias possède les plus belles ailes de toutes les espèces de papillons.
+Il peut voler assez vite, ce qui le rend plus difficile à attraper que la plupart de ses congénères.
+Ses ailes sont tricolores (rouge, bleu, et noir), mais les motifs et les formes sont très variés.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Grillé, l'agrias !
+
+----
+
+Text: 

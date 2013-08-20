@@ -1,0 +1,43 @@
+﻿Title: Cigale cercope
+
+----
+
+English: Brown Cicada
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 200
+
+----
+
+Museum: Le cri de la cigale cercope est parfois associé au bruit de l'huile qui crépite sur le feu.
+Ses ailes sont brunes au lieu d'être transparentes, un cas rare parmi les cigales.
+En groupe, cette cigale peut causer d'importants dégâts aux récoltes.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle a failli en faire une syncope.
+
+----
+
+Text: 

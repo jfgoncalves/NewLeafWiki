@@ -1,0 +1,45 @@
+﻿Title: Nautile
+
+----
+
+English: Nautilus
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 900
+
+----
+
+Museum: La nautile, dont la forme n'a pas changé en 60 millions d'années, est un parent des poulpes et calmars. Sa coquille renferme un mélange d'air et de liquide. Il peut ainsi flotter ou se laisser couler en fonction de la situation. Il possède près de 90 tentacules qu'il utilise pour s'agripper aux rochers ou attraper ses proies.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Rare
+
+----
+
+House: 
+
+----
+
+Catchphrase: C'est devenu un airtile, maintenant !
+
+----
+
+Text: 

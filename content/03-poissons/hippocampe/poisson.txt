@@ -1,0 +1,45 @@
+﻿Title: Hippocampe
+
+----
+
+English: Sea Horse
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Novembre
+
+----
+
+Retail: 1100
+
+----
+
+Museum: L'hippocampe ne ressemble pas à un poisson mais présente beaucoup de points communs avec lui. Il utilise ses nageoires dorsale et caudale pour se mouvoir, mais c'est un piètre nageur. Pour ne pas se laisser emporter par le courant, il s'agrippe aux algues ou aux coraux à l'aide de sa queue. Ainsi accroché, il se nourrit de plancton et de petites crevettes qui flottent à portée. La femelle déposes ses œufs dans la poche ventrale du mâle qui est dès lors chargé de leur incubation.
+
+----
+
+Shadow: Très petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Rien à voir avec un hippopotame sous une tente !
+
+----
+
+Text: 

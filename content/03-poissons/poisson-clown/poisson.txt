@@ -1,0 +1,45 @@
+﻿Title: Poisson clown
+
+----
+
+English: Clownfish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Septembre
+
+----
+
+Retail: 650
+
+----
+
+Museum: Le poisson-clown passe sa vie dissimulé parmi les tentacules des anémone de mer. Il est le seul à pouvoir s'y nicher, sa peau sécrétant une protection contre le poison de son habitat. En échange de la protection de l'anémone de mer, il en chasse les parasites et les prédateurs. Tous les poissons-clowns naissent mâles mais ils peuvent changer de sexe en cas de manque de femelles.
+
+----
+
+Shadow: Minuscule
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il fait déjà moins le mariole !
+
+----
+
+Text: 

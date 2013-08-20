@@ -1,0 +1,131 @@
+﻿Title: Guide pour bien contribuer sur le site
+
+----
+
+Text: #Introduction
+Bonjour,
+
+Pour commencer à contribuer sur le site, je vais vous expliquer un peu les grandes lignes et comment tout fonctionne. Ce site est propulsé avec ce qu'on appelle un CMS. En clair, les utilisateurs rentrent les informations et le site affiche automatiquement le résultat. La particularité de ce CMS c'est qu'il n'est lié à aucune base de données, il tourne avec un langage appelé PHP. Ce langage va aller lire les fichiers textes et va les interpréter pour le visiteur. Quand vous faites une page, le CMS va créer un dossier, ainsi qu'un fichier .txt dans ce dossier. On verra l'arborescence un peu plus tard.
+
+Vous pouvez consulter la documentation [à cette adresse](http://getkirby.com/).
+
+Avant de commencer à rédiger quoi que ce soit, il va falloir que vous appreniez d'abord le langage Markdown. Ce langage n'est pas très compliqué en soi mais va nous permettre de rédiger correctement des articles. Vous êtes sûrement habitués au WYSIWYG (Ce que vous voyez est ce que vous obtenez, par exemple dans Word, vous rédigez un texte, et vous pouvez le mettre en style grâce à des boutons.) mais ici, vous aurez la plupart du temps un champ texte seulement. Grâce au markdown, on va pouvoir faire des liens, insérer des image et bien plus, sans aucun bouton. Et le style restera uniforme parce que c'est PHP qui va interpréter notre document.
+
+Pour apprendre le markdown, vous avez l'excellent guide sur [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) (Anglais), ou pour les anglophobes un petit guide sur la syntaxe sur [ce site](http://michelf.ca/projets/php-markdown/syntaxe/).
+
+Une fois que vous connaissez le markdown (vous pouvez toujours avoir la doc a coté pendant la rédaction d'un article si vous avez du mal), je souhaite vous prévenir d'une chose : Ne vous embêtez pas à mettre un texte en rouge, ou plus gros lors de la rédaction d'un article, parce que la plupart des informations que vous rentrerez dans le panneau d'administration seront traités par PHP et stylisés automatiquement par les templates, ça ne sert donc à rien de faire un document arc-en-ciel.
+
+Passons aux choses sérieuses.
+
+# Le panneau d'administration
+
+On y accède à l'adresse [http://newleaf.fr/panel](http://newleaf.fr/panel).
+Ce panneau sera votre outil principal pour interagir avec le wiki. Je travaille sur un système pour modifier depuis la page elle-même avec un bouton.
+Sur le coté gauche, vous avez la liste des articles pour la page en cours. En arrivant à la racine, vous avez donc une vue sur toutes les pages du menu.
+## Les pages visibles/invisibles
+Il y a deux types de pages : Les pages visibles et invisibles. Les pages visibles apparaissent dans le menu et un numéro est ajouté en début du dossier. Les pages invisibles n'apparaissent pas dans le menu et ne comportent pas de numéros dans le nom du dossier. L'avantage des pages invisibles, c'est qu'elles vous permettent de ne pas afficher si vous avez beaucoup d'items. Vous imaginez si on avait nos 72 pages de poissons en visible, le menu comporterait 72 entrées supplémentaires!
+Généralement, les pages visibles sont les grandes pages/rubriques du site, et le reste sera mis en invisible.
+
+Attention : Invisible ne veut pas dire inaccessible. Vous pouvez très bien pointer sur la page avec un lien. Elle n'est juste pas présente dans le menu.
+
+## Créer une page
+Pour créer une page, il suffit de cliquer sur ce bouton ![](http://newleaf.fr/content/guide/creer.png)
+Il faudra alors renseigner un titre et choisir un template. Un template, c'est une mise en forme spéciale. Par exemple, pour remplir la fiche d'un poisson, vous n'êtes pas laissé à vous même devant une page blanche, en choisissant le template poisson, plein d'options s'affichent et feront le travail à votre place.
+
+Note : Vous ne pouvez pas créer de templates. Faites-moi en la demande si besoin via Trello.
+
+## Supprimer une page
+Il suffit de cliquer sur la croix à gauche de votre page.
+
+Note : Si votre page comporte des sous-pages, vous ne pouvez pas supprimer votre page. Supprimez d'abord ses sous-pages.
+
+## Chemins
+
+Un chemin est la façon de définir l'organisation de vos page. '/' signifie racine, c'est le niveau principal du site. Par exemple, /Insectes/Tarentule indique que la page tarentule est une sous-page de Insectes, qui est elle-même une sous-page de racine.
+
+## Créer une sous-page
+L'utilité des sous-pages est qu'elles permettent de ranger le contenu. Par exemple, la page de la Dorade se trouve dans /Poissons/Dorade. C'est plus clair pour chaque contributeurs, et aussi facile à accéder. (Si le visiteur cherche des infos sur la dorade, il peut facilement y arriver en jouant avec l'adresse internet http://newleaf.fr/poissons/dorade)
+Faites généralement preuve de logique quand vous créez et rangez vos pages. Essayez toujours ranger vos pages dans des catégories parentes.
+Pour créer une sous-page, cliquez sur la page parente. Après c'est la même chose que pour créer une page normale.
+Pour passer une page en visible, ou inversement, cliquer sur 'trier' a coté de l'ajout d'article, puis faites glisser votre page dans la bonne partie.
+
+Note : La création de sous-pages peut aller jusqu'à 10, mais des limitations aux templates sont en place. (Exemple: J'ai limité la création de sous-pages pour les poissons à 1 sous-page, car cela ne sert à rien d'enchainer des sous-pages pour ce type d'information.)
+
+Note : Dans certaines situation, vous n'avez pas le choix du template lors de la création d'une sous-page (exemple : pour les habitants).
+
+## Ajouter des fichiers 
+
+Pour ajouter des fichiers à vos pages, allez sur la fonction ![](http://newleaf.fr/content/guide/file.png) de votre page. Vous avez un outil pour envoyer vos images. Ensuite, vous pourrez choisir de les renommer, remplacer ou supprimer.
+
+## Autre
+
+Si vous voyez un texte en gris italique sous certains champs, ce sont des indications pour ne pas casser les comportements du template. Suivez-les.
+Les astérisques indiquent que le remplissage du champ est obligatoire.
+
+#Style d'écriture
+
+Essayez de garder des phrases courtes, simples et allant à l'essentiel. Préférez l'infinitif et le non emploi des personnes (1ère personne du singulier, etc), il faut que le site garde une image objective et ne tombe pas dans le familier. Évitez les smileys ou émoticones. Soyez toujours le plus précis possible, en mettant des liens vers d'autres pages, ou en détaillant vos propos.
+
+# Vocabulaire
+
+Je vais ici résumer grossièrement les principaux mots que j'utilise quand je parle du wiki, pour pas que vous ne soyez perdu.
+- Blueprint : L'organisation et la création des champs pour certaines pages.
+- Template : Du code exécuté d'une certaine façon avec une certaine mise en page, qui va aller chercher les informations dans les pages.
+- Kirby : Le nom du CMS
+- Panel : L'interface d'administration
+- Snippets : Des bouts de code présents dans les templates
+- Thumbs/Thumbnails : Les miniatures d'images utilisées par le panel sur la page de fichier pour vous donner un aperçu d'une image
+- Git : Un système qui me permet de travailler sur la correction ou l'ajout de fonctionnalités sur ma machine pour ensuite l'envoyer sur le serveur, tout en listant les changement et les différentes versions de mes modifications
+- Commit : Lister les modifications
+- Push : Valider ces modifications
+- Deploy/Déployer : Appliquer ces modifications sur le wiki.
+- Apache : Le système qui permet de faire tourner le site
+- Markdown : Le langage utilisé pour écrire des pages
+- Gandi : Notre hébergeur
+- Nom de domaine : L'adresse du site
+- Upload : Envoyer quelque chose sur le site
+
+En résumé, nous travaillons avec 3 outils : Kirby (notre site), Trello (notre tableau de bord) et Dropbox (notre bureau où l'on stocke images, brouillons et articles prêts à être utilisés)
+
+# Contenu
+
+Voici quelques sources pour chercher du contenu :
+
+Note : Pensez à vérifier au maximum l'authenticité des informations
+
+- (EN) [Thonky](http://www.thonky.com/animal-crossing-new-leaf/), avec pas mal de guides pratiques et d'infos
+- (FR) [ACNewLeaf e-monsite](http://acnewleaf.e-monsite.com/) Du bon contenu, mais une présentation catastrophique et une info pas toujours bonne.
+- (FR) [Animal-Crossing.org](http://www.animal-crossing.org/) Contient quelques infos intéressantes, comme les croisements de fleurs
+- (EN) [BidoofCrossing](http://bidoofcrossing.tumblr.com/post/39828209142/animal-crossing-new-leaf-guides-and-information) Un Tumblr qui a beaucoup d'infos, mais en anglais
+- (FR) [Animal-Crossing-Online](http://www.animalcrossing-online.com/) Un site intéressant pour les insectes, poissons et créatures marines
+- (EN) [MoriDB](http://moridb.com/) Une base de donnée extrêmement complète sur les objets du jeu.
+- (EN) [Acnewleaf.com](http://acnewleaf.com/) Un site avec un peu d'information dessus
+- (EN) [animalcrossing.us](http://animalcrossing.us/) Un site avec un peu d'information dessus
+- (EN) [Nookipedia](http://nookipedia.com/), une encyclopédie de qualité sur Animal Crossing
+- (EN) [Animal Crossing Wikia](http://animalcrossing.wikia.com/) un wiki complet sur Animal Crossing
+- (FR) [Animal Trolling](http://animal-trolling.tumblr.com/) Un Tumblr qui recense les phrases de pêche et de capture
+- Les forums The Bell Three, Animal Crossing Community et JV.com
+
+Si vous avez d'autres sources d'informations, n'hésitez pas à les rajouter à la liste.
+
+# Règles pour certains templates
+Les fichiers suivants doivent êtres ajoutés à leur fiche correspondante via l'outil d'upload, sans avoir à les lier (le template gère tout). Les fichiers sont disponibles dans la dropbox.
+
+- Le template poissons à besoin de 2 images pour fonctionner correctement, icon.png qui est une icône pour le tableau de listage, et poisson.png qui est l'image du poisson.
+- Le template insectes à besoin de 2 images pour fonctionner correctement, icon.png qui est une icône pour le tableau de listage, et insectes.png qui est l'image de l'insecte.
+- Le template créature marine à besoin de 2 images pour fonctionner correctement, icon.png qui est une icône pour le tableau de listage, et marin.png qui est l'image de l'insecte.
+- Le template personnage spéciaux à besoin de 1 image pour fonctionner correctement, personnage.png qui est l'image du personnage.
+- Le template habitant à besoin de 1 image pour fonctionner correctement, habitant.png qui est l'image de l'habitant.
+- Le template batiment à besoin de 1 image pour fonctionner correctement, batiment.png qui est l'image du batiment de profil.
+
+Cette liste sera mise a jour régulièrement au besoin.
+
+# Type de contenu
+
+## Textes
+
+Évitez de copier-coller depuis vos sources. Retravaillez votre texte, personne n'est pressé. Si vous avez peur de faire des fautes, n'hésitez pas à mettre votre brouillon final sur Dropbox, dans le dossier Articles/En attente de correction.
+
+## Images
+
+Préférez-vos propres images aux images trouvés sur Internet.

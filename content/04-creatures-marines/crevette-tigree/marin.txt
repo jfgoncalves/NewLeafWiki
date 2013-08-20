@@ -1,0 +1,45 @@
+﻿Title: Crevette tigrée
+
+----
+
+English: Tiger prawn
+
+----
+
+Location: Océan
+
+----
+
+Time: 21h à 9h
+
+----
+
+Month: Juillet à Novembre
+
+----
+
+Retail: 1600
+
+----
+
+Museum: La crevette tigrée vit dans des eaux océaniques peu profondes. Nocturne, elle passe ses journées dissimulée dans le sable. La nuit venue, elle va chasser des coquillages, avant de retourner se mettre à l'abri. Contrairement aux autres crevettes, elle ne transporte pas ses œufs dans son abdomen. C'est un mets particulièrement apprécié en beignet et en sushi.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Elle sent un peu le fauve...
+
+----
+
+Text: 

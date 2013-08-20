@@ -1,0 +1,49 @@
+﻿Title: Gordon
+
+----
+
+English: Drift
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Sportif
+
+----
+
+Species: Grenouille
+
+----
+
+Birthday: 09.10
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: La_Quantité_Normale
+
+----
+
+Sugar: Deux
+
+----
+
+Text: 

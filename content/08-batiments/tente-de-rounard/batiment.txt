@@ -1,0 +1,142 @@
+﻿Title: Tente de Rounard
+
+----
+
+English: Redd's Gallery
+
+----
+
+Proprio: <a href="/personnages-speciaux/Rounard">Rounard</a>
+
+----
+
+Location: Place du village
+
+----
+
+Timestart: 10h
+
+----
+
+Timeend: 
+
+----
+
+Issell: oui
+
+----
+
+Sell: 1 à 4 Tableaux
+<br />1 à 4 Sculptures
+
+----
+
+Text: Voici le renard Rounard, aussi futé que malhonnête, il vend 4 œuvres. Mais attention ! Comme dans les précédents volets de la série, il peut s'agir de contrefaçon.
+Pour éviter de se faire avoir et ne pas perdre de l'argent, voilà les détails pour distinguer le vrai des faux :
+
+Les tableaux :
+
+* Arcimboldo - Eté. Toile potagère.
+Si le nez de l'homme est orange c'est un faux, s'il est vert, c'est la bonne toile.
+
+* Boticelli - La naissance de Vénus. Toile émouvante.
+Si les rayures sur le coquillage sont tournées vers le haut, c'est la bonne toile, si elles sont tournées vers le bas, c'est un faux.
+
+* Brueghel - Les chasseurs dans la neige. Toile hivernale.
+Pas de contrefaçons.
+
+* Caravage - Nature morte avec des fruits. Toile neutre.
+Si la grosse feuille à gauche est trouée, c'est un faux, si elle ne l'est pas, c'est la bonne toile.
+
+* Cézanne - Nature morte avec des pommes et des oranges. Toile parfaite.
+Pas de contrefaçons.
+ 
+* De Vinci - La Joconde. Toile célèbre.
+Si sa main droite est au-dessus de sa main gauche, c'est la bonne toile.
+
+* De Vinci - La dame à l'hermine. Toile royale.
+Si la femme tient un chat blanc dans ses bras, c'est un faux, si non c'est la bonne toile.
+
+* Delacroix - La liberté guidant le peuple. Toile précieuse.
+Pas de contrefaçons.
+
+* Gainsborough - L'enfant bleu. Toile classique.
+S'il tient ses deux bras sur ses hanches, c'est un faux, s'il n'en plie qu'un, c'est la bonne toile.
+
+* Gauguin - Arearea "joyeuseté". Toile réussie.
+Pas de contrefaçons.
+
+* Goya - La Maja vêtue. Toile radieuse.
+Pas de contrefaçons.
+
+* Hokusai - La grande vague de Kanagawa. Toile déferlante.
+Si la vague est de la même hauteur que la montagne à l'arrière-plan, c'est une contrefaçon. Si la vague est nettement plus grande que la montagne, c'est la bonne toile.
+
+* Manet - Un bar aux folies bergères. Toile austère.
+Pas de contrefaçons.
+
+* Manet - Le joueur de flûte. Toile magnifique.
+Pas de contrefaçons.
+
+* Millet - Le semeur. Toile puissante.
+Pas de contrefaçons.
+ 
+* Millet - Les glaneuses. Toile commune.
+Pas de contrefaçons.
+
+* Moronobu - La beauté regarde en arrière. Toile gracieuse.
+Pour avoir la bonne toile, le regard de la femme doit être tourné vers la droite.
+
+* Rembrandt - La Ronde de Nuit. Toile incroyable.
+Pour que ce soit la bonne toile, l'homme en blanc doit être à droite, et l'homme en noir à gauche.
+
+* Seurat - Un dimanche après-midi sur l'île de la Grande Jatte. Toile apaisante.
+Pas de contrefaçons.
+
+* Sotatsu - Les dieux du Tonnerre et du Vent. Toile sauvage.
+Pour avoir la bonne toile, le dieu blanc doit être à gauche et le dieu noir doit être à droite.
+
+* Sharaku - Otani Oniji III dans le rôle de Yakko Edobei. Toile effrayante.
+Si le personnage n'a qu'un doigt sur chaque main de pointé, c'est un faux, si toute sa main est grande ouverte, tous doigts pointés, c'est la bonne toile.
+
+* Van Gogh - Les tournesols. Toile florale.
+Pas de contrefaçons.
+
+* Vermeer - La laitière. Toile charmante.
+Si elle est tête nue, c'est un faux, si elle porte un voile, c'est la bonne toile.
+
+* Vermeer - La jeune fille à la perle. Toile nacrée.
+Si le bandeau de la fille est rouge, c'est un faux, s'il est bleu, c'est la bonne toile.
+
+* Velasquez - Les Ménines. Toile solennelle.
+Si la fille au centre (en blanc) est deux fois plus grande que la fille à sa droite, c'est un faux, si elle est à la même hauteur qu'elle, c'est la bonne toile.
+ 
+Les sculptures :
+
+* La Vénus de Milo - Inconnu. Statue féminine.
+Si elle a des cheveux longs, c'est un faux, si elle les a attachés, c'est la bonne sculpture.
+ 
+* La Victoire de Samothrace - Inconnu. Statue héroïque.
+Si les ailes sont des ailes de chauve-souris, c'est un faux, si ce sont des ailes d'anges, c'est la bonne sculpture.
+ 
+* David - Michelangelo. Statue majestueuse.
+S'il a des habits suspendus à son épaule droite, c'est un faux, si cette épaule est nue, c'est la bonne sculpture.
+ 
+* Le Discobole - Inconnu. Statue athlétique.
+S'il tient un objet volumineux, c'est un faux, s'il tient un disque, c'est la bonne sculpture.
+ 
+* Roi Kamehameha Ier - Thomas R. Gould. Grande imposante.
+Si c'est doigts sont tournés ailleurs que vers le ciel, c'est un faux.
+ 
+* Buste de Nefertiti - Thutmose. Statue mystique.
+Si son chapeau est sphérique, c'est un faux, s'il est cylindrique, c'est le bon.
+ 
+* Dogū - Inconnu. Statue antique.
+Si ses yeux sont ouverts, c'est un faux, s'ils sont fermés, c'est la bonne sculpture.
+ 
+* Louve capitoline - Inconnu. Statue maternelle.
+S'il n'y a qu'un enfant sous la louve, c'est un faux. S'il y en a deux (Romulus et Remus), c'est la bonne sculpture.
+
+Cependant les œuvres sont limitées à une par personne. Et celle choisi ne sera pas remise sur place, elle sera envoyé le jour même par courrier et reçu chez l'acheteur le lendemain.
+
+Source : ACorrecteurK

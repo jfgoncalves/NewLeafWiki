@@ -1,0 +1,43 @@
+﻿Title: Cigale hyalessa
+
+----
+
+English: Robust cicada
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 500
+
+----
+
+Museum: La cigale hyalessa se distingue par un corps relativement petit par rapport à la taille de ses ailes.
+Elle côtoyait souvent la cigale cercope autrefois, mais elle est devenue de plus en plus urbaine.
+En effet, la cigale hyalessa a tendance à préférer les terrains secs.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Hyalessavoir pourquoi !
+
+----
+
+Text: 

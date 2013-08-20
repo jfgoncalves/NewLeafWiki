@@ -1,0 +1,45 @@
+﻿Title: Algue raisin de mer
+
+----
+
+English: Green caviar
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 600
+
+----
+
+Museum: L'algue raisin de mer est constituée de petites sphères attachées à de fines branches. Son apparence fait donc penser à des grappes de raisins, mais la ressemblance s'arrête là. Elle pousse dans les mers chaudes et est très vulnérables au froid, ce qui rend sa réfrigération difficile.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ne lui lâche pas la grappe !
+
+----
+
+Text: 

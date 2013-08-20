@@ -1,0 +1,44 @@
+﻿Title: Machaon
+
+----
+
+English: Tiger Butterfly
+
+----
+
+Location: Près des fleurs rouges
+
+----
+
+Time: 4h à 19h
+
+----
+
+Month: Mars à Septembre
+
+----
+
+Retail: 160
+
+----
+
+Museum: La larve du machaon se nourrit de feuilles d'oranger jusqu'à sa métamorphose.
+En cas de danger, ses antennes sécrètent une odeur répulsive en guise de protection.
+Les ailes du papillon sont constituées de fines écailles.
+Ce sont elles qui forment le motif, et elles servent aussi à rendre les ailes imperméables.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il est à Troie, euh, à toi !
+
+----
+
+Text: 

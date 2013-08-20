@@ -1,0 +1,41 @@
+﻿Title: Lucane cerf-volant
+
+----
+
+English: Giant Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 23h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 10000
+
+----
+
+Museum: Le lucane cerf-volant possède une dent sur chacun de ses mandibules. Très attaché à son territoire, il n'en est pas moins prudent et se cache dans les creux des arbres. Son espérance de vie est très bonne pour un insecte puisqu'il peut vivre jusqu'à cinq ans. Les collectionneurs l'apprécient beaucoup, d'où son prix élevé.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Rien ne cerf de voler !
+
+----
+
+Text: 

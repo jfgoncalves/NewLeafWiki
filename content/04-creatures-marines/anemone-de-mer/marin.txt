@@ -1,0 +1,45 @@
+﻿Title: Anémone de mer
+
+----
+
+English: Sea anemone
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 100
+
+----
+
+Museum: L'anémone de mer vit accrochée aux rochers et aux coraux. Elle utilise ses tentacules venimeux pour paralyser les poissons et les crevettes avant de les dévorer. Le poisson-clown est la seule espèce à posséder une résistance naturelle à ce poisson. Les deux espèces vivent en parfaite symbiose.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Mieux vaut prendre des gants, avec elle...
+
+----
+
+Text: 

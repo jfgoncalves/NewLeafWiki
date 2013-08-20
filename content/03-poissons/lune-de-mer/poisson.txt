@@ -1,0 +1,45 @@
+﻿Title: Lune de mer
+
+----
+
+English: Ocean sunfish
+
+----
+
+Location: Océan
+
+----
+
+Time: 4h à 21h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 4000
+
+----
+
+Museum: La lune de mer est apparenté au poisson-ballon et peut atteindre un poids de deux tonnes. Dénuée de nageoire caudale, elle ne nage pas très vite, ce qui peut apparaître comme un désavantage. Mais elle a d'autres atouts : elle peut pondre 300 millions d'œufs, un record chez les poissons. Cependant, sur ce nombre impressionnant, seul un ou deux individus parviennent à survivre. La lune de mer aime parfois se prélasser à la surface de l'eau, comme si elle bronzait.
+
+----
+
+Shadow: Énorme avec aileron qui sort de l'eau
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: Elle n'a pas réussi à s'éclipser !
+
+----
+
+Text: 

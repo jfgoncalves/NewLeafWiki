@@ -1,0 +1,45 @@
+﻿Title: Ayu
+
+----
+
+English: Sweetfish
+
+----
+
+Location: Rivière
+
+----
+
+Time: 4h à 21h
+
+----
+
+Month: Juillet à Septembre (première moitié)
+
+----
+
+Retail: 900
+
+----
+
+Museum: L'ayu est un poisson migrateur qui quitte sa rivière natale pour l'océan, puis revient frayer en eau douce. Ce mode de vie le rapproche des saumons. L'odeur de mousse de l'adulte, proche de celle de la pastèque, vient de la mousse marine qu'il ingère. L'ayu est très attaché à son territoire et il attaque les rivaux qui osent s'en approcher. Les pêcheurs exploitent ce caractère combatif en utilisant d'autres ayus comme appâts.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il n'y ayu que du feu !
+
+----
+
+Text: 

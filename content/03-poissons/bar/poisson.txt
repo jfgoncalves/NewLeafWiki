@@ -1,0 +1,45 @@
+﻿Title: Bar
+
+----
+
+English: Black Bass
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 300
+
+----
+
+Museum: Le bar se dissimule généralement au milieu des algues avant de jaillir au passage d'une proie. Sa tendance à effrayer ceux qui s'approchent de ses petits lui vaut une réputation de sauvage. Apparenté un bar commun, il est très apprécié en cuisine malgré la forte odeur de sa peau.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Thé ou café ?
+
+----
+
+Text: 

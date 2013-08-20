@@ -1,0 +1,44 @@
+﻿Title: Club MDR
+
+----
+
+English: Club LOL
+
+----
+
+Proprio: <a href="/personnages-speciaux/ciboulot">Ciboulot</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 12h
+
+----
+
+Timeend: 2h
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: Le Club MDR n'est disponible qu'après avoir débloqué la Supérette Méli-Mélo. Suite à ça, [Ciboulot](/personnages-speciaux/ciboulot) viendra voir le joueur avec une pétition à faire signer à 6 habitants de votre ville. Une fois fait, il faudra retourner le voir au centre ville, juste à côté de chez [Nook Immobilier](nook-immobilier). Il remerciera le joueur et dès le lendemain, les travaux commenceront (sans bâche bleue) et ceux-ci dureront une semaine.
+
+Le club MDR permet:
+
+* D'assister chaque soir de la semaine à [DJ Kéké](/personnages-speciaux/dj-keke), qui mixe tous ses titres. Le joueur peut danser en utilisant les touches directionnelles de la 3DS.
+
+* D'assister le samedi soir à une représentation de [Kéké Laglisse](/personnages-speciaux/keke-laglisse) , qui sera présent pour jouer une chanson en live. Soit au hasard, soit par demande (sans fautes d'orthographes !) A la fin de la chanson, le joueur peut repartir avec le titre joué.
+Note: Kéké ne donne qu'un seul titre par semaine et par joueur.
+
+* En venant avant 20h avec un fruit, n'importe lequel, de débloquer une émotion qui ira se loger dans le répertoire d'émotions. Pour cela, il faut allez parler à Ciboulot. Il ira alors sur scène jouer un sketch. Ciboulot ne donnera qu'une seule émotion par jour, au hasard. Cependant, il est impossible de tomber sur un double.
+
+Note: vous pouvez changer les gyroïdes par défaut sur scène par vos propres gyroïdes.

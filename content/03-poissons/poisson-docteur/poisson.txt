@@ -1,0 +1,45 @@
+﻿Title: Poisson docteur
+
+----
+
+English: Nibble fish
+
+----
+
+Location: Rivière
+
+----
+
+Time: 9h à 16h
+
+----
+
+Month: Mai à Septembre
+
+----
+
+Retail: 1500
+
+----
+
+Museum: Le nom scientifique du poisson docteur est « garra rufa ». Il vit dans les rivières chaudes. Omnivore, il se nourrit aussi bien d'algues que de la peau d'autres poissons. Il suffit de plonger sa main dans l'eau pour que ce poisson vienne la débarrasser de ses peaux mortes. C'est cette vertu exfoliante qui lui a valu son nom.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Et sans passer en salle d'attente !
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Truite
+
+----
+
+English: Rainbow trout
+
+----
+
+Location: Rivière
+
+----
+
+Time: 4h à 9h, 16h à 21h (Mars-Juin) / 4h à 21h (Septembre-Novembre)
+
+----
+
+Month: Mars à Juin / Septembre à Novembre
+
+----
+
+Retail: 800
+
+----
+
+Museum: Au cours de sa croissance, la truite développe une bande rose qui court de sa queue à ses ouïes. Certains individus passent leur vie dans les rivières tandis que d'autres choisissent de vivre dans l'océan. La truite est la représentation d'une espèce majeure de poissons, mais est dure à trouver en milieu naturel.
+
+----
+
+Shadow: Grande
+
+----
+
+Rarity: 
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ce n'est pas la femelle du cochonte.
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Calmar
+
+----
+
+English: Squid
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Décembre à Août (première moitié)
+
+----
+
+Retail: 400
+
+----
+
+Museum: Le calmar possède 10 bras, dont deux lui servent à attraper ses proies. Pour nager, il agite ses nageoires et expulse l'eau qui se trouve à l'intérieur de son corps. L'encre qu'il projette en cas de danger prend la forme d'un calmar, et sert à leurrer son attaquant.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ça l'a bien calmé !
+
+----
+
+Text: 

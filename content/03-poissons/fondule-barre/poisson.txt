@@ -1,0 +1,45 @@
+﻿Title: Fondule barré
+
+----
+
+English: Killifish
+
+----
+
+Location: Étang
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Août
+
+----
+
+Retail: 300
+
+----
+
+Museum: Les fondules barrés se déplacent en banc dans les eaux douces peu profondes. Ils se nourrissent d'insectes vivant à la surface de l'eau. Cela explique que leurs yeux, tout comme leur bouche, soient placés assez haut.
+
+----
+
+Shadow: Minuscule
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Menu du jour : fondule savoyarde !
+
+----
+
+Text: 

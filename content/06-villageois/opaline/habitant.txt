@@ -1,0 +1,49 @@
+﻿Title: Opaline
+
+----
+
+English: Opal
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Arrogante
+
+----
+
+Species: Éléphant
+
+----
+
+Birthday: 20.01
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: Plein
+
+----
+
+Sugar: Trois
+
+----
+
+Text: 

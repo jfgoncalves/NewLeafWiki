@@ -1,0 +1,33 @@
+﻿Title: Esthétichien
+
+----
+
+English: Shampoodle
+
+----
+
+Proprio: <a href="/personnages-speciaux/Ginette">Ginette</a>
+
+----
+
+Location: Rue commerçante (1er étage des <a href="soeurs-doigts-de-fee">Sœurs Doigts de Fée</a>)
+
+----
+
+Timestart: 10h
+
+----
+
+Timeend: 20h
+
+----
+
+Issell: oui
+
+----
+
+Sell: 
+
+----
+
+Text: 

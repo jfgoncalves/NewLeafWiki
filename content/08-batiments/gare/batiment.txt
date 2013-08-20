@@ -1,0 +1,45 @@
+﻿Title: Gare
+
+----
+
+English: Train Station
+
+----
+
+Proprio: <a href="/personnages-speciaux/lazare">Lazare</a>
+
+----
+
+Location: En haut du village
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: La gare a 3 grandes fonctions :
+
+* La consigne : Celle-ci permet d'accéder à l'espace personnel du joueur (Comme avec une armoire dans son domicile). Si jamais le joueur n'a plus assez de place dans son inventaire, il peut mettre le reste dans les consignes. Cette fonctionnalité est pratique quand vous êtes en voyage dans une autre ville, car vous pouvez avoir accès à votre espace personnel sans avoir à revenir dans votre ville.
+
+* Voyager : En allant parler à [Lazare](/personnages-speciaux/lazare), il demandera quel type de connexion il vous faut (Internet ou mode sans fil local) et montrera la liste des villes des joueurs ouvertes.
+
+* Recevoir : Pour inviter des ami(e)s, c'est pareil que pour voyager, à une chose près : il faut choisir entre recevoir TOUS les ami(e)s ou seulement les MEILLEUR(E)S ami(e)s. 
+
+Note: pour ajouter des ami(e)s en meilleur(e)s ami(e)s. Pour cela, il faut cliquer sur le cœur à côté du nom du joueur dans la liste des joueurs connectés lorsque vous jouez avec.
+
+Quand le maire voudra construire un bâtiment dans la rue commerçante, Gyroïde sera placé dans la gare pour collecter les fonds nécessaires.
+
+La gare peut être rénovée après avoir eu 100 visiteurs. Même si un joueur vient dans la ville du joueur plusieurs fois, ses visites compte toutes.

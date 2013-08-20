@@ -1,0 +1,49 @@
+﻿Title: Antonio
+
+----
+
+English: Antonio
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Sportif
+
+----
+
+Species: Fourmilier
+
+----
+
+Birthday: 20.10
+
+----
+
+Initphrase: pouet
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Kilimandjaro
+
+----
+
+Milk: Un_Peu
+
+----
+
+Sugar: Un
+
+----
+
+Text: 

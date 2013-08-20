@@ -1,0 +1,41 @@
+﻿Title: Scarabée kabuto
+
+----
+
+English: Dynastid Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 17h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 1350
+
+----
+
+Museum: Les cornes du scarabée kabuto sont en fait une excroissance de son exosquelette. Il ne possède ni nez ni oreilles, mais il est capable de sentir avec ses antennes. Ses poils lui permettent de détecter aussi les vibrations de l'air. Il émet une odeur âcre et son vol est assez bruyant, il est donc difficile d'ignorer sa présence.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il a bu trop de quoi, au juste ?
+
+----
+
+Text: 

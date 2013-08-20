@@ -1,0 +1,43 @@
+﻿Title: Le poste de police
+
+----
+
+English: Police Station
+
+----
+
+Proprio: <a href="/personnages-speciaux/chausset">Chausset</a> et <a href="/personnages-speciaux/maret">Maret</a>
+
+----
+
+Location: Dans le village
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: Le poste de police est un projet proposé par l'un des habitants dans le village. Par conséquent il peut être disponible tôt, après avoir débuté le jeu, ou bien tard, voire très tard !
+Celui-ci coûtera 264.000 clochettes et il y aura 2 styles possible :
+
+* Le poste de police moderne, avec [Maret](/personnages-speciaux/maret) en tant que policier.
+* Le poste de police classique, avec [Chausset](/personnages-speciaux/chausset) en tant que policier.
+
+Comme dans tout les opus d'AC, en parlant à Maret ou Chausset, ces derniers informeront le joueur s'il y a un marchand itinérant dans le village (Rounard, Sarah, Astrid...).
+
+De temps en temps il se pourrait qu'il trouve un papier à lettre, un meuble, un t-shirt... Ces derniers iront se loger sur la table des objets trouvés. Les invité(e)s venu en Wi-Fi ne pourront pas les prendre.
+
+Et nouveauté, il y a désormais 2 sortes de pièges, le classique et le discret. La seule différence c'est que le piège discret aura une fissure plus petite une fois enterré.

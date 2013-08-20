@@ -1,0 +1,45 @@
+﻿Title: Cyprin doré
+
+----
+
+English: Popeyed goldfish
+
+----
+
+Location: Rivière
+
+----
+
+Time: 9h à 16h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 1300
+
+----
+
+Museum: Les yeux saillants qui ont rendu ce poisson célèbre représentent en fait un inconvénient. En effet, il peut nager à côté d'une proie sans le remarquer, mais aussi se cogner, du fait de sa faible vue.
+
+----
+
+Shadow: Très petite
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ta prochaine cible : le cyprin mifa !
+
+----
+
+Text: 

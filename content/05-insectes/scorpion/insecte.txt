@@ -1,0 +1,42 @@
+﻿Title: Scorpion
+
+----
+
+English: Scorpion
+
+----
+
+Location: Sur l'herbe
+
+----
+
+Time: 19h à 4h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 8000
+
+----
+
+Museum: Le scorpion fait partie de la famille des arachnides comme l'araignée. Parmi le millier d'espèce qui sécrètent du venin, seules 25 sont dangereuses pour l'Homme. Les œufs du scorpion éclosent dans l'abdomen de la femelle, et les petits s'installent alors sur son dos.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il serait étonnant qu'il en pince pour toi !
+
+----
+
+Text: * Apparition uniquement lorsque le portillon de la gare est fermé.
+* Il fonce sur le joueur si ce dernier tient le filet à la main.

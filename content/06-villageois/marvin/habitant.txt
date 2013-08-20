@@ -1,0 +1,49 @@
+﻿Title: Marvin
+
+----
+
+English: Zucker
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Paresseux
+
+----
+
+Species: Pieuvre
+
+----
+
+Birthday: 08.03
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: T-Shirt Flan
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Kilimandjaro
+
+----
+
+Milk: Un_Peu
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

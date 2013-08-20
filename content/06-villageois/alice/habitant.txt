@@ -1,0 +1,49 @@
+﻿Title: Alice
+
+----
+
+English: Alice
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Normale
+
+----
+
+Species: Koala
+
+----
+
+Birthday: 19.08
+
+----
+
+Initphrase: chef
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

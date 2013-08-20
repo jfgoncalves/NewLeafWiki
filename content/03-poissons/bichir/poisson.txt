@@ -1,0 +1,45 @@
+﻿Title: Bichir
+
+----
+
+English: Saddled Bichir
+
+----
+
+Location: Rivière
+
+----
+
+Time: 21h à 4h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 4000
+
+----
+
+Museum: Le bichir possède des nageoires dorsales en forme de piquants. Il est apparu il y a plus de 400 millions d'années et a peu évolué depuis. Doté d'un appétit féroce, il saute sur toutes les proies qu'il juge adaptées à la taille de sa bouche. Il peut mesurer jusqu'à 70 cm et sa façon de nager ressemble à la démarche d'un dinosaure.
+
+----
+
+Shadow: Grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Il a pas bronchir !
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Requin marteau
+
+----
+
+English: Hammerhead shark
+
+----
+
+Location: Océan
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 8000
+
+----
+
+Museum: Le requin marteau doit son nom à la forme de sa tête. Pour un requin, il est plutôt paisible. La position de ses yeux lui permet de voir dans presque toutes les directions. Étrangement, ses narines se situent près de ses yeux, aux deux extrémités de sa tête. Il possède également des petites ouvertures sur le devant et le bas de la tête. Celles-ci lui permettent de détecter les proies, même celles situées sous lui ou hors de son champ de vision. Il semble que la raie constitue sa nourriture favorite.
+
+----
+
+Shadow: Énorme avec aileron qui sort de l'eau
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: Il a l'air un peu dingo...
+
+----
+
+Text: 

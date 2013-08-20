@@ -1,0 +1,41 @@
+﻿Title: Mante orchidée
+
+----
+
+English: Orchid Mantis
+
+----
+
+Location: Sur les fleurs blanches
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Avril à Novembre
+
+----
+
+Retail: 2400
+
+----
+
+Museum: La mante orchidée doit son nom à sa ressemblance avec la fleur. Elle utilise cette dernière pour se camoufler et surprendre les proies qui s'approchent de la fleur. Elle est généralement carnivore, mais elle se nourrit aussi de bananes à l'occasion.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Tu aurais préféré une mante à l'eau ?
+
+----
+
+Text: 

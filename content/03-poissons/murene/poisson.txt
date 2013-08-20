@@ -1,0 +1,45 @@
+﻿Title: Murène
+
+----
+
+English: Moray eel
+
+----
+
+Location: Océan (rare) / Île
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Août à Octobre (ville) / Toute l'année (Île)
+
+----
+
+Retail: 2000
+
+----
+
+Museum: On ne voit souvent de la murène que sa tête qui dépasse d'entre les rochers. Lorsqu'une proie s'approche, elle se jette hors de sa cachette et la saisit avec sa bouche aux dents acérées. La morsure de la murène peut être redoutable car il est dur de lui faire lâcher prise. Son corps longiligne est couvert d'une peau rigide souvent utilisée comme cuir.
+
+----
+
+Shadow: Grande / Très grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: C'est la femelle du muroi !
+
+----
+
+Text: 

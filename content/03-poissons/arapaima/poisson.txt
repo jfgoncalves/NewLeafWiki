@@ -1,0 +1,47 @@
+﻿Title: Arapaïma
+
+----
+
+English: Arapaima
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 10000
+
+----
+
+Museum: L'arapaïma, apparu il y a 100 millions d'années, peut mesurer plus de deux mètres de long. Cela fait de lui l'un des plus grands poissons d'eau douce du monde.
+Il respire à l'aide de ses ouïes, mais également à l'aide d'une vessie qu'il remplit d'air à la surface de l'eau.
+Sa langue rigide lui permet de broyer les petits poissons dont il se nourrit.
+
+----
+
+Shadow: Énorme
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

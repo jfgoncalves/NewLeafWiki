@@ -1,0 +1,41 @@
+﻿Title: Cigale cicadelle
+
+----
+
+English: Walker Cicada
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 400
+
+----
+
+Museum: La cigale cicadelle émet un son original qui donne l'impression qu'elle chante en harmonie. Ce champ est souvent considéré comme un bon indicateur de la fin de l'été.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Sa cousine : la cigale forceresse !
+
+----
+
+Text: 

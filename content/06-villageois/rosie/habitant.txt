@@ -1,0 +1,49 @@
+﻿Title: Rosie
+
+----
+
+English: Rosie
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Agréable
+
+----
+
+Species: Chat
+
+----
+
+Birthday: 27.02
+
+----
+
+Initphrase: flûte
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: Un_Peu
+
+----
+
+Sugar: Un
+
+----
+
+Text: 

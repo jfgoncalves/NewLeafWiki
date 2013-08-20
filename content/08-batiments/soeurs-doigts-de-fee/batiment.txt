@@ -1,0 +1,46 @@
+﻿Title: Les Sœurs Doigts de Fée
+
+----
+
+English: Able Sisters
+
+----
+
+Proprio: <a href="/personnages-speciaux/Layette">Layette</a>, <a href="/personnages-speciaux/Cousette">Cousette</a> et <a href="/personnages-speciaux/Maria">Maria</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 10h
+
+----
+
+Timeend: 21h
+
+----
+
+Issell: oui
+
+----
+
+Sell: - 3x T-Shirts, Robes ou Débardeurs / 2x Pantalons, Jupes ou Shorts
+<br />- 3x Couvres-chefs / 3x Accessoires / 1x Parapluie
+
+----
+
+Text: Chez les Sœurs Doigts de Fée, mis à part faire du shopping et exposer ses motifs personnalisés, il n'est pas possible de faire autre chose !
+
+Pour créer un motif personnalisé pro, ou bien sauvegarder ses motifs pour ne pas les perdre et les refaire, il faut discuter avec Layette. Le motif normal permet de créer un motif unique qui servira simplement. Le motif pro permet de créer en détail un T-Shirt, tout en choisissant un aspect différent pour chaque partie du T-Shirt (manches, etc..).
+
+Par ailleurs, en discutant jour après jour avec Cousette, celle-ci débloquera la machine à QR Code au bout d'une dizaines de jour. Il sera possible de lui demander comment la machine fonctionne et aussi : 
+
+* Lire un QR Code : pour ainsi avoir de nouvelles tenues, parapluies... faites par des joueurs du monde entier. 
+* Générer un QR Code : pour sauvegarder ses motifs en tant que QR Code, qui sera enregistrer sur la carte SD de la 3DS. Et pouvoir le partager avec le reste des joueurs.
+
+Quand à Maria, plus le joueur achètera dans son espace, plus elle sera de bonne humeur et sympathique. Un peu comme Cousette.
+
+
+Note: Il sera possible de recevoir des mannequins de la part de Cousette (continuez à lui parler après avoir eu la machine à QR Code), Layette (achetez souvent des vêtements), Maria (achetez souvent des accessoires...) et Carla (offert quand vous viendrez la 1ère fois dans son magasin dans les "Galeries Méli-Mélo").

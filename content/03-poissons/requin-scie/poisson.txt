@@ -1,0 +1,45 @@
+﻿Title: Requin scie
+
+----
+
+English: Saw shark
+
+----
+
+Location: Océan
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 12000
+
+----
+
+Museum: Le requin scie doit son nom à la forme de sa tête hérissée de dents telle une lame de tronçonneuse. Pour détecter une proie, il se colle contre le fond marin et utilise ses capteurs situés sous sa bouche. Il agite parfois sa gueule au milieu d'un banc de poissons et attrape les proies qu'il a ainsi atteintes.
+
+----
+
+Shadow: Énorme avec aileron qui sort de l'eau
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: Le nul, il n'avait qu'à couper la ligne !
+
+----
+
+Text: 

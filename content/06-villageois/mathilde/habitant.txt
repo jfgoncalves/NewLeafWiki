@@ -1,0 +1,49 @@
+﻿Title: Mathilde
+
+----
+
+English: Mathilda
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Arrogante
+
+----
+
+Species: Kangourou
+
+----
+
+Birthday: 12.11
+
+----
+
+Initphrase: riquiqui
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: Un_Peu
+
+----
+
+Sugar: Un
+
+----
+
+Text: 

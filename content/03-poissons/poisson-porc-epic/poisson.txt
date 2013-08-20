@@ -1,0 +1,45 @@
+﻿Title: Poisson-porc-épic
+
+----
+
+English: Puffer Fish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 240
+
+----
+
+Museum: Comme son nom l'indique, le poisson-porc-épic est recouvert de piquants. Il est apparenté aux poisson-ballon, mais à l'inverse de celui-ci, il n'est pas venimeux. On prétend souvent qu'il possède 1000 piquants, mais le nombre réel est plutôt de 300 ou 400. En en cas de danger, il se gonfle en inspirant de l'eau et de l'air afin d'intimider ses prédateurs.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Qui s'y frotte s'y pique !
+
+----
+
+Text: 

@@ -1,0 +1,49 @@
+﻿Title: Marina
+
+----
+
+English: Marina
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Normale
+
+----
+
+Species: Pieuvre
+
+----
+
+Birthday: 26.06
+
+----
+
+Initphrase: beurp
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: Plein
+
+----
+
+Sugar: Trois
+
+----
+
+Text: 

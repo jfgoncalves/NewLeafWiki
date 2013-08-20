@@ -1,0 +1,45 @@
+﻿Title: Limule
+
+----
+
+English: Horseshoe crab
+
+----
+
+Location: Océan
+
+----
+
+Time: 21h à 4h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 1500
+
+----
+
+Museum: La limule doit son surnom de fossile vivant au fait qu'elle ait très peu évolué depuis l'âge des dinosaures. Son dis est recouvert d'une carapace très dur terminée par une longue queue. On la compare souvent aux crabes, mais elle est en fait plus proche des araignées et des scorpions.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est l'émule des mollusques !
+
+----
+
+Text: 

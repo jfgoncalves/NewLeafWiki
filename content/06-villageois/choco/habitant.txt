@@ -1,0 +1,49 @@
+﻿Title: Choco
+
+----
+
+English: Bill
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Sportif
+
+----
+
+Species: Canard
+
+----
+
+Birthday: 01.02
+
+----
+
+Initphrase: choupichou
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Kilimandjaro
+
+----
+
+Milk: Un_Peu
+
+----
+
+Sugar: Un
+
+----
+
+Text: 

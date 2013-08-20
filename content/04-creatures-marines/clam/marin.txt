@@ -1,0 +1,45 @@
+﻿Title: Clam
+
+----
+
+English: Clam
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Septembre à Avril
+
+----
+
+Retail: 300
+
+----
+
+Museum: 
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 

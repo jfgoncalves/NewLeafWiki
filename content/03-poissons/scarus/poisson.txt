@@ -1,0 +1,45 @@
+﻿Title: Scarus
+
+----
+
+English: Barred knifejaw
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mars à Novembre
+
+----
+
+Retail: 5000
+
+----
+
+Museum: Le scarus est reconnaissable aux sept rayures qui ornent son corps blanc. Sa curiosité naturelle et sa force en font une prise recherchée par les pêcheurs, mais il est dur à attraper. Ses dents robustes lui permettent de venir à bout rapidement des coquilles les plus résistantes. Oursins et mollusques ont donc fort à craindre de ce redoutable prédateur.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Sacré petit gus !
+
+----
+
+Text: 

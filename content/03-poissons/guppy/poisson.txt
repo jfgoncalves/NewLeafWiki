@@ -1,0 +1,45 @@
+﻿Title: Guppy
+
+----
+
+English: Guppy
+
+----
+
+Location: Rivière
+
+----
+
+Time: 9h à 16h
+
+----
+
+Month: Avril à Novembre
+
+----
+
+Retail: 1300
+
+----
+
+Museum: Le guppy est apparenté au fondule barré et vit dans les rivières chaudes des tropiques. Poisson apprécié des aquariophiles, sa longue nageoire caudale est le résultat de croisements. Le guppy femelle donne naissance à sa progéniture après que les œufs ont éclos dans son ventre. Le rythme des naissances étant constant, la population croît à une vitesse assez élevée.
+
+----
+
+Shadow: Minuscule
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Tu doit être super happy !
+
+----
+
+Text: 

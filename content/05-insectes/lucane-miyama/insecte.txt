@@ -1,0 +1,41 @@
+﻿Title: Lucane miyama
+
+----
+
+English: Miyama Stag Beetle
+
+----
+
+Location: Sur les arbres
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 1000
+
+----
+
+Museum: Le lucane miyama en impose avec son exosquelette épais et bosselé, et les poils jaunes sur son corps. Il est principalement diurne mais n'apprécie pas trop les chaleurs estivales. Contrairement aux apparences, c'est un insecte plutôt fragile.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Mamma mia !
+
+----
+
+Text: 

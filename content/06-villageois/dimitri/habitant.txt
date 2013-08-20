@@ -1,0 +1,49 @@
+﻿Title: Dimitri
+
+----
+
+English: Benedict
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Paresseux
+
+----
+
+Species: Poulet
+
+----
+
+Birthday: 10.10
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: T-Shirt Numéro 2
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: Un_Peu
+
+----
+
+Sugar: Un
+
+----
+
+Text: 

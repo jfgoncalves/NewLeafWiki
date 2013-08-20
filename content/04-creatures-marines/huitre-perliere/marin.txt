@@ -1,0 +1,45 @@
+﻿Title: Huître perlière
+
+----
+
+English: Pearl oyster
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 1600
+
+----
+
+Museum: L'agglomération de carbonate de calcium et de protéines autour d'un corps étranger forme une perle. Les huîtres perlières ont de nombreux pieds qui dépassent de leur coquille, tels des tentacules. Ceux-ci, remarquables par leur force, leur permettent de s'agripper fermement aux rochers. Leurs muscles adducteurs, comestibles, sont très appréciés des gourmets.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: La perle ou la vie !
+
+----
+
+Text: 

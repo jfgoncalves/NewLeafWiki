@@ -1,0 +1,45 @@
+﻿Title: Étoile de mer
+
+----
+
+English: Starfish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 100
+
+----
+
+Museum: L'étoile de mer possède des centaines de petits pieds attachés à ses bras. Ils lui permettent de se déplacer et même d'ouvrir des coquillages pour se nourrir. L'étoile de mer est capable de régénérer un bras arraché par un prédateur. Certaines espèces étendent leur estomac à l'extérieur pour attraper et digérer leurs proies.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Un shérif aquatique a dû l'égarer !
+
+----
+
+Text: 

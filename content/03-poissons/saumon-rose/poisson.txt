@@ -1,0 +1,45 @@
+﻿Title: Saumon rose
+
+----
+
+English: Cherry Salmon
+
+----
+
+Location: Rivière
+
+----
+
+Time: 4h à 9h, 16h à 21h (Mars-Juin) / 4h à 21h (Septembre-Novembre)
+
+----
+
+Month: Mars à Juin / Septembre à Novembre
+
+----
+
+Retail: 1000
+
+----
+
+Museum: Les taches qui recouvrent le corps du saumon rose lui servent de camouflage. Il vit en général dans les rivières mais il lui arrive de migrer vers l'océan pour achever sa croissance. Les pêcheurs apprécient ce poisson pour ses formes harmonieuses et ses motifs élégants. En outre, leur nature nerveuse les rend difficile à attraper, ajoutant au prestige accompagnant leur prise.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Gare aux épines !
+
+----
+
+Text: 

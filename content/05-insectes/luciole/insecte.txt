@@ -1,0 +1,43 @@
+﻿Title: Luciole
+
+----
+
+English: Firefly
+
+----
+
+Location: Dans l'air
+
+----
+
+Time: 19h à 9h
+
+----
+
+Month: Juin
+
+----
+
+Retail: 300
+
+----
+
+Museum: Le mâle et la femelle luciole peuvent tous deux émettre de la lumière grâce à leur abdomen.
+Celle-ci n'a rien à voir avec la lumière produite par une ampoule et n'est pas chaude au toucher.
+La luciole peut déjà luire dans l’œuf et au stade larvaire, mais cette lueur est plus faible.
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Encore quelques milliers et à toi la lampe naturelle !
+
+----
+
+Text: 

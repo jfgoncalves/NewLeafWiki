@@ -1,0 +1,45 @@
+﻿Title: Gar
+
+----
+
+English: Gar
+
+----
+
+Location: Lac
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Juin à Septembre
+
+----
+
+Retail: 6000
+
+----
+
+Museum: Le long museau du gar et sa large bouche lui donnent des airs d'alligator. Certains individus peuvent atteindre trois mètres de long. Ce poisson a peu évolué depuis son apparition il y a de cela des millions d'années. Il respire grâce à ses ouïes, mais aussi en plaçant son museau à la surface de l'eau. Ses œufs, très toxiques, ne doivent surtout pas être consommés.
+
+----
+
+Shadow: Énorme
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x2
+
+----
+
+Catchphrase: Prochain arrêt : l'aquarium !
+
+----
+
+Text: 

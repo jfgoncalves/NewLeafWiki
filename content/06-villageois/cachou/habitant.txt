@@ -1,0 +1,49 @@
+﻿Title: Cachou
+
+----
+
+English: Blaire
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Arrogante
+
+----
+
+Species: Écureuil
+
+----
+
+Birthday: 03.07
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: T-Shirt Pêche
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Mélange
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: 

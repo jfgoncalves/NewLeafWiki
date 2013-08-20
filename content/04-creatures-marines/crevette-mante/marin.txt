@@ -1,0 +1,45 @@
+﻿Title: Crevette-mante
+
+----
+
+English: Mantis shrimp
+
+----
+
+Location: Océan
+
+----
+
+Time: 21h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 1250
+
+----
+
+Museum: La crevette-mante possède de longues pattes en forme de faucilles et une carapace recouvre son corps. Ses pinces puissantes sont capables de venir à bout des carapaces les plus résistantes. Sa chair est très appréciée en cuisine, en particulier celle des femelles portant des œufs.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Relâche-la, ça devient une crevette-mante à l'eau !
+
+----
+
+Text: 

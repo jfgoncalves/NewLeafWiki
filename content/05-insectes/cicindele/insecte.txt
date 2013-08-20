@@ -1,0 +1,43 @@
+﻿Title: Cicindèle
+
+----
+
+English: Tiger Beetle
+
+----
+
+Location: Sur l'herbe
+
+----
+
+Time: 8h à 19h
+
+----
+
+Month: Mars à Octobre
+
+----
+
+Retail: 1500
+
+----
+
+Museum: La cicindèle est réputée pour son agressivité vis à vis de ses proies et sa vitesse.
+Son corps coloré reflète la lumière du soleil, ce qui lui donne un aspect brillant.
+Sa larve niche dans un terrier cylindrique et capture les insectes passant à portée de ses mandibules.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ha ha ! Elle fait moins la belle !
+
+----
+
+Text: La cicindèle ne se trouve que lorsque le portillon de la ville est fermé.

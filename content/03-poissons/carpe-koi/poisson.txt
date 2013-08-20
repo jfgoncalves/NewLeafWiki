@@ -1,0 +1,45 @@
+﻿Title: Carpe koï
+
+----
+
+English: Koï (carp)
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 4000
+
+----
+
+Museum: D'ordinaire de couleur assez terne ce poisson d'aquarium peut aussi arborer des motifs variés. L'élevage de carpes sélectionnées pour leurs mutations génétiques explique cette diversité. Il n'existe pas deux carpes koï aux motifs identiques, ce qui fait de chaque spécimen un petit bijou. En fonction de motif et de la couleur, son prix peut atteindre des sommets. Élevée dans de bonnes conditions, la carpe koï peut vivre plus de 100 ans.
+
+----
+
+Shadow: Moyenne-Grande
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: On dirait qu'elle te fait de l’œil !
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Ver plat
+
+----
+
+English: Flat worm
+
+----
+
+Location: Océan
+
+----
+
+Time: 21h à 9h
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 200
+
+----
+
+Museum: Malgré sa ressemblance avec une limace de mer, le ver plat n'a que peu de rapport avec cette espèce. Certaines espèces sont venimeuses et leur poison est identique à celui du célèbre poisson-ballon. Le ver plat, hermaphrodite, se bat avec son partenaire pour déterminer lequel des deux portera les œufs.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il a dû croiser un requin marteau !
+
+----
+
+Text: 

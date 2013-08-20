@@ -1,0 +1,45 @@
+﻿Title: Oursin
+
+----
+
+English: Sea urchin
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Septembre
+
+----
+
+Retail: 800
+
+----
+
+Museum: Les oursins sont des cousins proches des étoiles de mer et concombres de mer. On les croit souvent immobiles, mais en fait, ils possèdent de nombreuses petites pattes. Celles-ci sont situés entre leurs piquants et leur permettent de se déplacer. Ils se nourrissent d'algues, grâce à leur bouche placée sous leur corps. Ils sont très nutritifs, mais ils contiennent également un taux élevé de cholestérol.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Gare aux piquants, il n'est pas en peluche !
+
+----
+
+Text: Son ombre ne bouge pas, facile à attraper !

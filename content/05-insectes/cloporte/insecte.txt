@@ -1,0 +1,43 @@
+﻿Title: Cloporte
+
+----
+
+English: Pill Bug
+
+----
+
+Location: Sous les rochers
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 250
+
+----
+
+Museum: Le cloporte vit dans des endroits humides sous les rochers ou les souches, par exemple.
+Quand on le touche, il se roule en boule.
+Il fait partie de la famille des crustacés et peut à ce titre passer un certain temps sous l'eau.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: C'est le cousin de l'ouvreporte !
+
+----
+
+Text: 

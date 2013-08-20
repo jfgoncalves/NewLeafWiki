@@ -1,0 +1,45 @@
+﻿Title: Barbeau
+
+----
+
+English: Barbel Steed
+
+----
+
+Location: Rivière
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 200
+
+----
+
+Museum: Chez le barbeau, la distance entre les yeux et la bouche est plus grande que chez la carpe. Cela donne l'impression qu'il baisse les yeux avec embarras. Ses moustaches ne sont pas aussi longues que celles de la carpe, la ressemblance est donc mineure. Il est comestible malgré ses nombreuses arêtes, et son goût rappelle celui du cardeau.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Ça vaut mieux qu'un restau moche !
+
+----
+
+Text: 

@@ -1,0 +1,45 @@
+﻿Title: Têtard
+
+----
+
+English: Tadpole
+
+----
+
+Location: Étang
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Mars à Juillet
+
+----
+
+Retail: 100
+
+----
+
+Museum: Les têtards sont des bébés grenouilles qui vivent dans les étangs et les rivières. Leur tête ronde et leur façon de se déplacer les rendent aussi attachants que les adultes. Leur apparence finale se précise quand leurs pattes poussent et qu'ils perdent leur queue. Dépourvus d'écaille à la différence des poissons, ils exposent leur peau directement et sont très fragiles.
+
+----
+
+Shadow: Minuscule
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il était temps !
+
+----
+
+Text: 

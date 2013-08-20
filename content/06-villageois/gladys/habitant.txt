@@ -1,0 +1,49 @@
+﻿Title: Gladys
+
+----
+
+English: Gladys
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Normale
+
+----
+
+Species: Autruche
+
+----
+
+Birthday: 15.01
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: La_Quantité_Normale
+
+----
+
+Sugar: Deux
+
+----
+
+Text: 

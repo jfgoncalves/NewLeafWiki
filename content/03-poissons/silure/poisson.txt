@@ -1,0 +1,45 @@
+﻿Title: Silure
+
+----
+
+English: Catfish
+
+----
+
+Location: Rivière / Lac
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Mai à Octobre
+
+----
+
+Retail: 800
+
+----
+
+Museum: Le silure est célèbre pour ses élégantes moustaches, son large corps et sa grande bouche. Malgré ses yeux imposants, il n'y voit pas grand-chose. Ses longues moustaches, sensibles au toucher, lui permettent de compenser cette faible vision. Les traits horizontaux et verticaux sur son corps sont autant de trous qui lui servent de capteurs. Ils lui permettent de détecter les faibles signaux électriques émis par les autres poissons. Le calme apparent du silure contraste avec la manière qu'il a de se jeter brusquement sur sa proie
+
+----
+
+Shadow: Moyenne / Grande
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Il est un peu gros pour une friture !
+
+----
+
+Text: 

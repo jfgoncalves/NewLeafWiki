@@ -1,0 +1,45 @@
+﻿Title: Turbo
+
+----
+
+English: Turban shell
+
+----
+
+Location: Océan
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Août à Mai
+
+----
+
+Retail: 300
+
+----
+
+Museum: Les turbos sont des gastéropodes. Un couvercle ferme l'ouverture de leur coquille. Pour se déplacer, ils l'ouvrent et déploient leur pied, comme les escargots. Ces animaux nocturnes se nourrissent d'algues. On peut les manger cuits dans leur coquille.
+
+----
+
+Shadow: Petite
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: S'il l'avait enclenché, il n'en serait pas là !
+
+----
+
+Text: 

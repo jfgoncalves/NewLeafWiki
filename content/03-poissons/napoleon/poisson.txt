@@ -1,0 +1,45 @@
+﻿Title: Napoléon
+
+----
+
+English: Napoleonfish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 10000
+
+----
+
+Museum: Le napoléon est facile à reconnaître grâce à la bosse qui orne sa tête. Tous les individus naissent femelles et avec le temps, certains changent de sexe et leur bosse grossit. Leur corps prend aussi une teinte bleutée, ce qui permet de les distinguer facilement des femelles. Ce poisson peut mesurer jusqu'à deux mètres mais il se déplace avec aisance dans les eaux chaudes. Les plongeurs sont souvent émerveillés par leur rencontre avec un napoléon.
+
+----
+
+Shadow: Énorme
+
+----
+
+Rarity: Rare
+
+----
+
+House: 2x2
+
+----
+
+Catchphrase: Il a livré une belle bataille !
+
+----
+
+Text: 

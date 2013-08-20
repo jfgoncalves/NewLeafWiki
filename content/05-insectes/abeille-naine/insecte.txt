@@ -1,0 +1,45 @@
+﻿Title: Abeille naine
+
+----
+
+English: Honeybee
+
+----
+
+Location: Près des fleurs
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Mars à Juin
+
+----
+
+Retail: 100
+
+----
+
+Museum: L'abeille naine récolte le nectar des fleurs pour le transformer en miel.
+Les ouvrières sont toutes des femelles et elles sont les seules à pouvoir piquer.
+La ruche renferme aussi des ma^les, mais après la saison des amours, ils en sont chassés.
+Le miel est consommé par l'Homme depuis très longtemps.
+Des peintures rupestres datant de 8 000 ans montrent des gens en train de s'en nourrir.
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Tu crois qu'elle produit du mini-miel ?
+
+----
+
+Text: 

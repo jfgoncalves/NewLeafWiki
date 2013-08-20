@@ -1,0 +1,7 @@
+﻿Title: Accueil
+
+----
+
+Text: <p style="text-align: center;">
+<img src="http://newleaf.fr/content/01-accueil/home.png" />
+</p>

@@ -1,0 +1,45 @@
+﻿Title: Poisson scorpion
+
+----
+
+English: Zebra turkeyfish
+
+----
+
+Location: Océan
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Novembre
+
+----
+
+Retail: 400
+
+----
+
+Museum: Le poisson-scorpion possède de longues nageoires qui flottent élégamment autour de lui. Mais qu'on ne s'y trompe pas : ces merveilles dissimulent des piquants venimeux. Leur poison sert aussi bien de protection contre les prédateurs que lors des joutes entre mâles. Ces dernières sont sans pitié puisque le mâle vaincu succombe au poison en quelques jours.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Commun
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Poisson ou scorpion, faudrait savoir !
+
+----
+
+Text: 

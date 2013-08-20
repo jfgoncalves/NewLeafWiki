@@ -1,0 +1,49 @@
+﻿Title: Loran
+
+----
+
+English: Hans
+
+----
+
+Sex: Mâle
+
+----
+
+Personality: Agréable
+
+----
+
+Species: Gorille
+
+----
+
+Birthday: 05.12
+
+----
+
+Initphrase: 
+
+----
+
+Initclothes: 
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Blue_Mountain
+
+----
+
+Milk: Pas_Une_Goutte
+
+----
+
+Sugar: Zéro
+
+----
+
+Text: Personnalité : suffisant

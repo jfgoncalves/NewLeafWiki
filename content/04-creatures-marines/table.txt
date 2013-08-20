@@ -1,0 +1,8 @@
+﻿Title: Créatures marines
+
+----
+
+Text: Les créatures marines font parti des espèces d'animaux pouvant être attrapés dans Animal Crossing New Leaf. On peut les attraper avec un [maillot](outils/maillot), pour ensuite les exposer au [musée](musee), les vendre à [Reventes & Retouches](batiments-speciaux/revente-et-retouches) ou à [Méli & Mélo](personnages-speciaux/Meli-et-Melo), ou même les poser chez soi.
+Beaucoup de créatures marines vont apparaître dans la ville durant toute l'année et d'autre l'[été](meteo/saisons#ete), quelques espèces uniques pendant l'[automne](meteo/saisons#automne) et le [printemps](meteo/saisons#printemps), et peu d'espèces durant l'[hiver](meteo/saisons#hiver).
+
+Il y a en tout 30 espèces de créatures marines. En voici la liste :

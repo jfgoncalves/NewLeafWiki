@@ -1,0 +1,49 @@
+﻿Title: Allie
+
+----
+
+English: Alli
+
+----
+
+Sex: Femelle
+
+----
+
+Personality: Arrogante
+
+----
+
+Species: Alligator
+
+----
+
+Birthday: 08.11
+
+----
+
+Initphrase: graaagh
+
+----
+
+Initclothes: Tenue léopard
+
+----
+
+Picquote: 
+
+----
+
+Cofee: Moka
+
+----
+
+Milk: La_Quantité_Normale
+
+----
+
+Sugar: Deux
+
+----
+
+Text: 

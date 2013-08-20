@@ -1,0 +1,44 @@
+﻿Title: Dytique
+
+----
+
+English: Diving Beetle
+
+----
+
+Location: Dans l'eau, sur l'eau
+
+----
+
+Time: 8h à 17h
+
+----
+
+Month: Mai à septembre
+
+----
+
+Retail: 800
+
+----
+
+Museum: Le dytique nage à l'aide e ses pattes arrières velues.
+Il contribue à épurer l'eau en la débarrassant des insectes morts.
+Il stocke une réserve d'air sous ses ailes pour pouvoir respirer sous l'eau et refait surface si besoin.
+Capturé par un prédateur, il sécrète un liquide bleu à l'odeur repoussante pour se défendre.
+
+----
+
+Rarity: Rare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: On dirait qu'il tique...
+
+----
+
+Text: 

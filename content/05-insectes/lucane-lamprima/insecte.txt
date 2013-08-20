@@ -1,0 +1,41 @@
+﻿Title: Lucane lamprima
+
+----
+
+English: Golden Stag
+
+----
+
+Location: Sur les palmiers
+
+----
+
+Time: 17h à 8h
+
+----
+
+Month: Juillet à Août
+
+----
+
+Retail: 12000
+
+----
+
+Museum: La couleur dorée du lucane lamprima en fait un insecte très recherché par les collectionneurs. Son corps ne brille que lorsqu'il est sec. Quand il est humide, il est plutôt noir. Les mandibules du lucane lamprima sont courtes et peu adaptées au combat. Cela n'empêche pas les luttes de territoire acharnées entre mâles. Ces derniers sont d'ailleurs connus pour leur comportement courtois envers les femelles.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Lampe rime avec crampe !
+
+----
+
+Text: 

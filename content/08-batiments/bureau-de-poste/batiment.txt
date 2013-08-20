@@ -1,0 +1,39 @@
+﻿Title: Bureau de Poste
+
+----
+
+English: Post Office
+
+----
+
+Proprio: <a href="/personnages-speciaux/opelie">Opélie</a> et <a href="/personnages-speciaux/elisabec">Elisabec</a>
+
+----
+
+Location: Rue commerçante
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: Le bureau de poste est tenu par [Opélie](/personnages-speciaux/opelie) (de 7h à 22h) et [Elisabec](/personnages-speciaux/elisabec) (de 22h à 7h), grâce à elles, il est possible :
+
+* D'envoyer des courriers pour les villageois, ou pour le joueur.
+* De mettre des lettres dans sa boîte personnelle et ainsi ne pas les perdre.
+* De demander le [cadeau téléchargeable](/DLC), (accès internet requis).
+
+Il y a également le DAC (Distributeur À Clochettes) qui permet de faire un dépôt, un retrait d'argent, ou rembourser son prêt envers [Tom Nook](personnages-speciaux/tom-nook) lorsqu'on lui demande d'agrandir sa maison.

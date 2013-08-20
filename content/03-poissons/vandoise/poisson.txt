@@ -1,0 +1,45 @@
+﻿Title: Vandoise
+
+----
+
+English: Dace
+
+----
+
+Location: Rivière
+
+----
+
+Time: 16h à 9h
+
+----
+
+Month: Toute l'année
+
+----
+
+Retail: 200
+
+----
+
+Museum: Les vandoises peuvent vivre dans des eaux relativement troubles et vaseuses. Cependant, leur nombre élevé les rend facile à repérer. Apparentées à la carpe, certaines espèces peuvent également vivre dans les océans. Pendant la saison des amours, une rayure orange apparaît sur le ventre du mâle pour attirer la femelle.
+
+----
+
+Shadow: Moyenne
+
+----
+
+Rarity: Abondant
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: Qui va tenir sa boutique ?!
+
+----
+
+Text: 

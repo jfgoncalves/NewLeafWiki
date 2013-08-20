@@ -1,0 +1,58 @@
+﻿Title: Mairie
+
+----
+
+English: Town Hall
+
+----
+
+Proprio: <a href="/personnages-speciaux/marie">Marie</a>
+
+----
+
+Location: Dans le village
+
+----
+
+Timestart: 
+
+----
+
+Timeend: 
+
+----
+
+Issell: non
+
+----
+
+Sell: 
+
+----
+
+Text: C'est Marie qui gère la mairie , et en allant lui parler au guichet elle proposera :
+
+* De donner des conseils au joueur sur la vie locale, pour avoir plus facilement de l'argent et autres astuces.
+* De connaitre l'indice de satisfaction. Cet indice permet de savoir ce qu'il faut modifier dans la ville pour avoir une ville parfaite.
+* De modifier l'hymne de la ville.
+* De changer le drapeau de la ville, en choisissant dans les motifs personnalisés. (excepté motifs pro)
+* Ses services si vous avez des problèmes de voisinage, elle résoudra les conflits avec l'habitant concerné (par exemple si ce dernier porte un motif à caractère sensible, il sera possible de le faire enlever grâce à ça). Vous ne pouvez pas faire partir des [villageois](/villageois) grâce à cette rubrique.
+
+En étant maire, en s'asseyant à son bureau, il sera possible de :
+
+* Construire des travaux publics (un seul à la fois) : Une fois sélectionné, [Marie](personnages-speciaux/Marie) vous demandera de l'emmener à l'emplacement que vous avez choisi pour construire le projet, et vous donnera un aperçu final de la construction. Elle installera alors un gyroïde qui servira à collecter les fonds nécessaires pour son élaboration. Une fois l'argent collecté, la construction du projet s'achèvera le lendemain et en revenant dans votre bureau, Marie vous proposera d'assister à l'inauguration, qui rassemblera les habitants présents à ce moment.
+
+* Démolir une construction : Il faut choisir via la carte de la ville et une liste des projets finis. La démolition se déroulera le soir (vous ne verrez rien) et cela coûtera 10 fois moins que le prix de départ, exemple : un banc jaune à 30.000 clochettes sera à 3.000 clochettes. Certains projets ne peuvent pas être démolis, voir la page des [projets publics](/projets-publics) pour de plus amples informations
+
+* Choisir un arrêté parmi ceux-là :
+    * Entretien du charme
+Cet arrêté permet de réduire à 95% les mauvaises herbes qui poussent dans votre village, les fleurs ne fanerons plus, et vous ne trouverez plus aucun déchets en pêchant. Les habitants arroseront aussi de temps en temps les fleurs et vous remercieront d'avoir mis en place l'arrêté.
+ 
+    * Lever matinal
+Les habitants du village se lèverons beaucoup plus tôt (3 heures avant) et les boutiques ouvriront tôt, mais celles-ci fermeront tôt et les habitants se couchent aussi très tôt.
+ 
+    * Coucher tardif
+Les habitants se coucherons plus tard (3 heures plus tard) et les boutiques resteront ouvertes également plus tard, mais elles ouvriront plus tard aussi et les habitants se lèverons plus tard.
+ 
+    * Inflation des prix
+Cet arrêté à des points positifs mais également négatifs. Les objets se vendront beaucoup plus cher, mais les objets en vente deviendront aussi beaucoup plus cher !

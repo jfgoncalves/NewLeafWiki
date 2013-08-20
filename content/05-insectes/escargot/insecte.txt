@@ -1,0 +1,41 @@
+﻿Title: Escargot
+
+----
+
+English: Snail
+
+----
+
+Location: Sur les buissons, par temps de pluie
+
+----
+
+Time: Toute la journée
+
+----
+
+Month: Avril à Septembre
+
+----
+
+Retail: 250
+
+----
+
+Museum: L'escargot est un mollusque terrestre apparenté aux crustacés tels que la palourde ou l'huître. Certains sont hermaphrodites et peuvent concevoir leurs œufs sans l'aide d'un congénère. Quand les escargots naissent, ils possèdent déjà une petite coquille. La coquille de la plupart des espèces s'enroule dans le sens des aiguilles d'une montre.
+
+----
+
+Rarity: TrèsRare
+
+----
+
+House: 1x1
+
+----
+
+Catchphrase: 
+
+----
+
+Text: 
